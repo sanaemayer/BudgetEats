@@ -1,0 +1,5886 @@
+[
+  {
+    "pk": 1,
+    "model": "foods.ingredient",
+    "fields": { 
+      "name": "Aluminum Foil",
+      "store": "Aldi",
+      "price": 1.99
+    
+  }},
+  {
+    "pk": 2,
+    "model": "foods.ingredient",
+    "fields": { "name": "Apple Juice",
+    "store": "Aldi",
+    "price": 1.69
+    
+  }},
+  {
+    "pk": 3,
+    "model": "foods.ingredient",
+    "fields": { "name": "Apple Sauce",
+    "store": "Aldi",
+    "price": 1.29
+  }},
+  {
+    "pk": 4,
+    "model": "foods.ingredient",
+    "fields": { "name": "Apples, Gala, bag",
+    "store": "Aldi",
+    "price": 2.99
+  }},
+  {
+    "pk": 5,
+    "model": "foods.ingredient",
+    "fields": { "name": "Apples, Red/Golden Delicious (and/or other), bag",
+    "store": "Aldi",
+    "price": 3.29
+  }},
+  {
+    "pk": 6,
+    "model": "foods.ingredient",
+    "fields": { "name": "Bacon",
+    "store": "Aldi",
+    "price": 2.99
+  }},
+  {
+    "pk": 7,
+    "model": "foods.ingredient",
+    "fields": { "name": "Bagles, plain",
+    "store": "Aldi",
+    "price": 1.49
+  }},
+  {
+    "pk": 8,
+    "model": "foods.ingredient",
+    "fields": { "name": "Baguette Rolls, frozen",
+    "store": "Aldi",
+    "price": 0.00
+  }},
+  {
+    "pk": 9,
+    "model": "foods.ingredient",
+    "fields": { "name": "Baguette/French Bread",
+    "store": "Aldi",
+    "price": 0.00
+  }},
+  {
+    "pk": 10,
+    "model": "foods.ingredient",
+    "fields": { "name": "Barbeque Sauce",
+    "store": "Aldi",
+    "price": 0.89
+  }},
+  {
+    "pk": 11,
+    "model": "foods.ingredient",
+    "fields": { "name": "Beef Stew Meat",
+    "store": "Aldi",
+    "price": 4.19
+  }},
+  {
+    "pk": 12,
+    "model": "foods.ingredient",
+    "fields": { "name": "Beer, bottle, pilsener, import",
+    "store": "Aldi",
+    "price": 5.99
+  }},
+  {
+    "pk": 13,
+    "model": "foods.ingredient",
+    "fields": { "name": "Beer, cans",
+    "store": "Aldi",
+    "price": 0.00
+  }},
+  {
+    "pk": 14,
+    "model": "foods.ingredient",
+    "fields": { "name": "Brats, 4-6 pack",
+    "store": "Aldi",
+    "price": 1.99
+  }},
+  {
+    "pk": 15,
+    "model": "foods.ingredient",
+    "fields": { "name": "Bread Crumbs",
+    "store": "Aldi",
+    "price": 0.89
+  }},
+  {
+    "pk": 16,
+    "model": "foods.ingredient",
+    "fields": { "name": "Bread, 12-grain/multi-grain",
+    "store": "Aldi",
+    "price": 1.89
+  }},
+  {
+    "pk": 17,
+    "model": "foods.ingredient",
+    "fields": { "name": "Breakfast Sausage, frozen",
+    "store": "Aldi",
+    "price": 0.89
+  }},
+  {
+    "pk": 18,
+    "model": "foods.ingredient",
+    "fields": { "name": "Butter, real, unsalted/salted",
+    "store": "Aldi",
+    "price": 2.29
+  }},
+  {
+    "pk": 19,
+    "model": "foods.ingredient",
+    "fields": { "name": "Carrots, whole",
+    "store": "Aldi",
+    "price": 1.29
+  }},
+  {
+    "pk": 20,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cereal, Müsli style",
+    "store": "Aldi",
+    "price": 0.00
+  }},
+  {
+    "pk": 21,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheery Pie Filling",
+    "store": "Aldi",
+    "price": 1.79
+  }},
+  {
+    "pk": 22,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheese Singles (imitation)",
+    "store": "Aldi",
+    "price": 0.99
+  }},
+  {
+    "pk": 23,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheese, block (regular)",
+    "store": "Aldi",
+    "price": 1.99
+  }},
+  {
+    "pk": 24,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheese, Boursin",
+    "store": "Aldi",
+    "price": 0.00
+  }},
+  {
+    "pk": 25,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheese, Brie 1",
+    "store": "Aldi",
+    "price": 2.99
+  }},
+  {
+    "pk": 26,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheese, Brie 2",
+    "store": "Aldi",
+    "price": 0.00
+  }},
+  {
+    "pk": 27,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheese, Parmesan, jar",
+    "store": "Aldi",
+    "price": 2.39
+  }},
+  {
+    "pk": 28,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheese, shredded, Mexican style",
+    "store": "Aldi",
+    "price": 2.79
+  }},
+  {
+    "pk": 29,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheese, shredded, Mozarella",
+    "store": "Aldi",
+    "price": 2.99
+  }},
+  {
+    "pk": 30,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheese, sliced, deli",
+    "store": "Aldi",
+    "price": 0.00
+  }},
+  {
+    "pk": 31,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheese, sliced, regular",
+    "store": "Aldi",
+    "price": 1.99
+  }},
+  {
+    "pk": 32,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheese, wedge, deli",
+    "store": "Aldi",
+    "price": 0.00
+  }},
+  {
+    "pk": 33,
+    "model": "foods.ingredient",
+    "fields": { "name": "Chicken Breasts, frozen",
+    "store": "Aldi",
+    "price": 5.49
+  }},
+  {
+    "pk": 34,
+    "model": "foods.ingredient",
+    "fields": { "name": "Chicken Nuggets, frozen",
+    "store": "Aldi",
+    "price": 3.99
+  }},
+  {
+    "pk": 35,
+    "model": "foods.ingredient",
+    "fields": { "name": "Chicken Tenderloins, frozen",
+    "store": "Aldi",
+    "price": 5.99
+  }},
+  {
+    "pk": 36,
+    "model": "foods.ingredient",
+    "fields": { "name": "Chips, potato chips",
+    "store": "Aldi",
+    "price": 1.49
+  }},
+  {
+    "pk": 37,
+    "model": "foods.ingredient",
+    "fields": { "name": "Chocolate Chip Cookie Dough",
+    "store": "Aldi",
+    "price": 1.99
+  }},
+  {
+    "pk": 38,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cocoa Rice Cereal",
+    "store": "Aldi",
+    "price": 1.69
+  }},
+  {
+    "pk": 39,
+    "model": "foods.ingredient",
+    "fields": { "name": "Coconut Milk",
+    "store": "Aldi",
+    "price": 0.00
+  }},
+  {
+    "pk": 40,
+    "model": "foods.ingredient",
+    "fields": { "name": "Coffee",
+    "store": "Aldi",
+    "price": 4.99
+  }},
+  {
+    "pk": 41,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cold Cuts, ham or chicken",
+    "store": "Aldi",
+    "price": 3.29
+  }},
+  {
+    "pk": 42,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cold Cuts, turkey variety",
+    "store": "Aldi",
+    "price": 0.00
+  }},
+  {
+    "pk": 43,
+    "model": "foods.ingredient",
+    "fields": { "name": "Corn Flakes, regular",
+    "store": "Aldi",
+    "price": 1.69
+  }},
+  {
+    "pk": 44,
+    "model": "foods.ingredient",
+    "fields": { "name": "Corn Flakes, sugar frosted",
+    "store": "Aldi",
+    "price": 1.79
+  }},
+  {
+    "pk": 45,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cottage Cheese",
+    "store": "Aldi",
+    "price": 1.99
+  }},
+  {
+    "pk": 46,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cream Cheese",
+    "store": "Aldi",
+    "price": 1.19
+  }},
+  {
+    "pk": 47,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cream, heavy whipping",
+    "store": "Aldi",
+    "price": 0.00
+  }},
+  {
+    "pk": 48,
+    "model": "foods.ingredient",
+    "fields": { "name": "Croissants",
+    "store": "Aldi",
+    "price": 2.49
+  }},
+  {
+    "pk": 49,
+    "model": "foods.ingredient",
+    "fields": { "name": "Eggs, cage free",
+    "store": "Aldi",
+    "price": 0.00
+  }},
+  {
+    "pk": 50,
+    "model": "foods.ingredient",
+    "fields": { "name": "Eggs, regular",
+    "store": "Aldi",
+    "price": 1.09
+  }},
+  {
+    "pk": 51,
+    "model": "foods.ingredient",
+    "fields": { "name": "Fish 1, frozen (flounder)",
+    "store": "Aldi",
+    "price": 3.99
+  }},
+  {
+    "pk": 52,
+    "model": "foods.ingredient",
+    "fields": { "name": "Fish 2, frozen (tilapia)",
+    "store": "Aldi",
+    "price": 4.49
+  }},
+  {
+    "pk": 53,
+    "model": "foods.ingredient",
+    "fields": { "name": "Fish 3, frozen",
+    "store": "Aldi",
+    "price": 3.99
+  }},
+  {
+    "pk": 54,
+    "model": "foods.ingredient",
+    "fields": { "name": "(mahi mahi and/or other)",
+    "store": "Aldi",
+    "price": 0.00
+  }},
+  {
+    "pk": 55,
+    "model": "foods.ingredient",
+    "fields": { "name": "Flour, all purpose",
+    "store": "Aldi",
+    "price": 1.59
+  }},
+  {
+    "pk": 56,
+    "model": "foods.ingredient",
+    "fields": { "name": "Flour, self rising",
+    "store": "Aldi",
+    "price": 1.59
+  }},
+  {
+    "pk": 57,
+    "model": "foods.ingredient",
+    "fields": { "name": "French Fries, frozen",
+    "store": "Aldi",
+    "price": 1.89
+  }},
+  {
+    "pk": 58,
+    "model": "foods.ingredient",
+    "fields": { "name": "Fruit 1, frozen (strawberries)",
+    "store": "Aldi",
+    "price": 1.99
+  }},
+  {
+    "pk": 59,
+    "model": "foods.ingredient",
+    "fields": { "name": "Fruit 2, frozen",
+    "store": "Aldi",
+    "price": 2.99
+  }},
+  {
+    "pk": 60,
+    "model": "foods.ingredient",
+    "fields": { "name": "(cherries and/or other)",
+    "store": "Aldi",
+    "price": 0.00
+  }},
+  {
+    "pk": 61,
+    "model": "foods.ingredient",
+    "fields": { "name": "Granola Bars, high fiber",
+    "store": "Aldi",
+    "price": 1.89
+  }},
+  {
+    "pk": 62,
+    "model": "foods.ingredient",
+    "fields": { "name": "Granola Bars, regular",
+    "store": "Aldi",
+    "price": 1.59
+  }},
+  {
+    "pk": 63,
+    "model": "foods.ingredient",
+    "fields": { "name": "Grapes, red",
+    "store": "Aldi",
+    "price": 2.99
+  }},
+  {
+    "pk": 64,
+    "model": "foods.ingredient",
+    "fields": { "name": "Green Beans, canned",
+    "store": "Aldi",
+    "price": 0.59
+  }},
+  {
+    "pk": 65,
+    "model": "foods.ingredient",
+    "fields": { "name": "Ground Beef (chuck, 80/20)",
+    "store": "Aldi",
+    "price": 2.89
+  }},
+  {
+    "pk": 66,
+    "model": "foods.ingredient",
+    "fields": { "name": "Ground Beef (sirloin, 90/10)",
+    "store": "Aldi",
+    "price": 3.49
+  }},
+  {
+    "pk": 67,
+    "model": "foods.ingredient",
+    "fields": { "name": "Ground Beef, frozen",
+    "store": "Aldi",
+    "price": 2.79
+  }},
+  {
+    "pk": 68,
+    "model": "foods.ingredient",
+    "fields": { "name": "Ground Turkey",
+    "store": "Aldi",
+    "price": 2.99
+  }},
+  {
+    "pk": 69,
+    "model": "foods.ingredient",
+    "fields": { "name": "Ground Turkey, frozen",
+    "store": "Aldi",
+    "price": 1.69
+  }},
+  {
+    "pk": 70,
+    "model": "foods.ingredient",
+    "fields": { "name": "Ham, boneless",
+    "store": "Aldi",
+    "price": 2.99
+  }},
+  {
+    "pk": 71,
+    "model": "foods.ingredient",
+    "fields": { "name": "Honey",
+    "store": "Aldi",
+    "price": 4.49
+  }},
+  {
+    "pk": 72,
+    "model": "foods.ingredient",
+    "fields": { "name": "Honey Crunch Oats",
+    "store": "Aldi",
+    "price": 1.89
+  }},
+  {
+    "pk": 73,
+    "model": "foods.ingredient",
+    "fields": { "name": "Hot Dog Buns",
+    "store": "Aldi",
+    "price": 0.99
+  }},
+  {
+    "pk": 74,
+    "model": "foods.ingredient",
+    "fields": { "name": "Hot Dogs, beef",
+    "store": "Aldi",
+    "price": 2.29
+  }},
+  {
+    "pk": 75,
+    "model": "foods.ingredient",
+    "fields": { "name": "Ice Cream, premium",
+    "store": "Aldi",
+    "price": 2.49
+  }},
+  {
+    "pk": 76,
+    "model": "foods.ingredient",
+    "fields": { "name": "Ice Cream, simple",
+    "store": "Aldi",
+    "price": 1.99
+  }},
+  {
+    "pk": 77,
+    "model": "foods.ingredient",
+    "fields": { "name": "Jalopeño Peppers, canned",
+    "store": "Aldi",
+    "price": 1.19
+  }},
+  {
+    "pk": 78,
+    "model": "foods.ingredient",
+    "fields": { "name": "Ketchup",
+    "store": "Aldi",
+    "price": 1.49
+  }},
+  {
+    "pk": 79,
+    "model": "foods.ingredient",
+    "fields": { "name": "Kielbasa",
+    "store": "Aldi",
+    "price": 1.99
+  }},
+  {
+    "pk": 80,
+    "model": "foods.ingredient",
+    "fields": { "name": "Lemons",
+    "store": "Aldi",
+    "price": 1.99
+  }},
+  {
+    "pk": 81,
+    "model": "foods.ingredient",
+    "fields": { "name": "Lettuce, iceberg",
+    "store": "Aldi",
+    "price": 0.99
+  }},
+  {
+    "pk": 82,
+    "model": "foods.ingredient",
+    "fields": { "name": "Mandarin Oranges, canned",
+    "store": "Aldi",
+    "price": 0.49
+  }},
+  {
+    "pk": 83,
+    "model": "foods.ingredient",
+    "fields": { "name": "Margarine/Spread",
+    "store": "Aldi",
+    "price": 0.99
+  }},
+  {
+    "pk": 84,
+    "model": "foods.ingredient",
+    "fields": { "name": "Mayonnaise",
+    "store": "Aldi",
+    "price": 2.19
+  }},
+  {
+    "pk": 85,
+    "model": "foods.ingredient",
+    "fields": { "name": "Milk",
+    "store": "Aldi",
+    "price": 1.99
+  }},
+  {
+    "pk": 86,
+    "model": "foods.ingredient",
+    "fields": { "name": "Milk Chocolate Bar",
+    "store": "Aldi",
+    "price": 1.49
+  }},
+  {
+    "pk": 87,
+    "model": "foods.ingredient",
+    "fields": { "name": "Milk, organic",
+    "store": "Aldi",
+    "price": 0.00
+  }},
+  {
+    "pk": 88,
+    "model": "foods.ingredient",
+    "fields": { "name": "Mushrooms, Button, whole",
+    "store": "Aldi",
+    "price": 0.99
+  }},
+  {
+    "pk": 89,
+    "model": "foods.ingredient",
+    "fields": { "name": "Mushrooms, stems/pieces",
+    "store": "Aldi",
+    "price": 0.59
+  }},
+  {
+    "pk": 90,
+    "model": "foods.ingredient",
+    "fields": { "name": "Mustard, dijon",
+    "store": "Aldi",
+    "price": 0.99
+  }},
+  {
+    "pk": 91,
+    "model": "foods.ingredient",
+    "fields": { "name": "Mustard, yellow",
+    "store": "Aldi",
+    "price": 0.69
+  }},
+  {
+    "pk": 92,
+    "model": "foods.ingredient",
+    "fields": { "name": "Nutella",
+    "store": "Aldi",
+    "price": 0.00
+  }},
+  {
+    "pk": 93,
+    "model": "foods.ingredient",
+    "fields": { "name": "Oat Meal",
+    "store": "Aldi",
+    "price": 1.49
+  }},
+  {
+    "pk": 94,
+    "model": "foods.ingredient",
+    "fields": { "name": "Oil, Canola, 100% pure",
+    "store": "Aldi",
+    "price": 2.69
+  }},
+  {
+    "pk": 95,
+    "model": "foods.ingredient",
+    "fields": { "name": "Oil, Olive, 100% pure",
+    "store": "Aldi",
+    "price": 2.99
+  }},
+  {
+    "pk": 96,
+    "model": "foods.ingredient",
+    "fields": { "name": "Oil, Olive, extra virgin",
+    "store": "Aldi",
+    "price": 3.49
+  }},
+  {
+    "pk": 97,
+    "model": "foods.ingredient",
+    "fields": { "name": "Onions, yellow",
+    "store": "Aldi",
+    "price": 1.69
+  }},
+  {
+    "pk": 98,
+    "model": "foods.ingredient",
+    "fields": { "name": "Orange Juice, not from concentrate",
+    "store": "Aldi",
+    "price": 2.39
+  }},
+  {
+    "pk": 99,
+    "model": "foods.ingredient",
+    "fields": { "name": "Oranges",
+    "store": "Aldi",
+    "price": 2.99
+  }},
+  {
+    "pk": 100,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pancetta or Ham, diced",
+    "store": "Aldi",
+    "price": 0.00
+  }},
+  {
+    "pk": 101,
+    "model": "foods.ingredient",
+    "fields": { "name": "Paper Towles",
+    "store": "Aldi",
+    "price": 5.99
+  }},
+  {
+    "pk": 102,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pasta, Egg Noodles",
+    "store": "Aldi",
+    "price": 0.99
+  }},
+  {
+    "pk": 103,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pasta, Ellbow Maccaroni",
+    "store": "Aldi",
+    "price": 1.69
+  }},
+  {
+    "pk": 104,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pasta, Penne Rigate",
+    "store": "Aldi",
+    "price": 0.99
+  }},
+  {
+    "pk": 105,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pasta, Rotini/Rotelle/Fusilli",
+    "store": "Aldi",
+    "price": 1.49
+  }},
+  {
+    "pk": 106,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pasta, Spaghetti",
+    "store": "Aldi",
+    "price": 1.59
+  }},
+  {
+    "pk": 107,
+    "model": "foods.ingredient",
+    "fields": { "name": "Peanut Butter",
+    "store": "Aldi",
+    "price": 2.29
+  }},
+  {
+    "pk": 108,
+    "model": "foods.ingredient",
+    "fields": { "name": "Peanuts, roasted",
+    "store": "Aldi",
+    "price": 2.69
+  }},
+  {
+    "pk": 109,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pears",
+    "store": "Aldi",
+    "price": 1.99
+  }},
+  {
+    "pk": 110,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pepper, black, ground",
+    "store": "Aldi",
+    "price": 1.99
+  }},
+  {
+    "pk": 111,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pizza Dough",
+    "store": "Aldi",
+    "price": "0.00"
+  }},
+  {
+    "pk": 112,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pizza, frozen (premium)",
+    "store": "Aldi",
+    "price": 3.89
+  }},
+  {
+    "pk": 113,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pizza, frozen (simple)",
+    "store": "Aldi",
+    "price": 1.99
+  }},
+  {
+    "pk": 114,
+    "model": "foods.ingredient",
+    "fields": { "name": "Plastic Wrap",
+    "store": "Aldi",
+    "price": 1.49
+  }},
+  {
+    "pk": 115,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pork Tenderloin, small",
+    "store": "Aldi",
+    "price": 3.99
+  }},
+  {
+    "pk": 116,
+    "model": "foods.ingredient",
+    "fields": { "name": "Potatoes, gold (Yukon)",
+    "store": "Aldi",
+    "price": 2.99
+  }},
+  {
+    "pk": 117,
+    "model": "foods.ingredient",
+    "fields": { "name": "Potatoes, red",
+    "store": "Aldi",
+    "price": 2.49
+  }},
+  {
+    "pk": 118,
+    "model": "foods.ingredient",
+    "fields": { "name": "Potatoes, Russet",
+    "store": "Aldi",
+    "price": 2.89
+  }},
+  {
+    "pk": 119,
+    "model": "foods.ingredient",
+    "fields": { "name": "Preserves, strawberry",
+    "store": "Aldi",
+    "price": 1.59
+  }},
+  {
+    "pk": 120,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pretzels",
+    "store": "Aldi",
+    "price": 1.29
+  }},
+  {
+    "pk": 121,
+    "model": "foods.ingredient",
+    "fields": { "name": "Red Cabbage",
+    "store": "Aldi",
+    "price": 0.00
+  }},
+  {
+    "pk": 122,
+    "model": "foods.ingredient",
+    "fields": { "name": "Ribs, Baby Back (pork, unseasoned)",
+    "store": "Aldi",
+    "price": 3.49
+  }},
+  {
+    "pk": 123,
+    "model": "foods.ingredient",
+    "fields": { "name": "Ribs, Spare Back (pork, unseasoned)",
+    "store": "Aldi",
+    "price": "0.00"
+  }},
+  {
+    "pk": 124,
+    "model": "foods.ingredient",
+    "fields": { "name": "Rice, instant, white",
+    "store": "Aldi",
+    "price": 2.49
+  }},
+  {
+    "pk": 125,
+    "model": "foods.ingredient",
+    "fields": { "name": "Rice, regular",
+    "store": "Aldi",
+    "price": 1.69
+  }},
+  {
+    "pk": 126,
+    "model": "foods.ingredient",
+    "fields": { "name": "Salad Dressing",
+    "store": "Aldi",
+    "price": 1.39
+  }},
+  {
+    "pk": 127,
+    "model": "foods.ingredient",
+    "fields": { "name": "Salami, sliced",
+    "store": "Aldi",
+    "price": 2.79
+  }},
+  {
+    "pk": 128,
+    "model": "foods.ingredient",
+    "fields": { "name": "Salami, whole (1)",
+    "store": "Aldi",
+    "price": 0.00
+  }},
+  {
+    "pk": 129,
+    "model": "foods.ingredient",
+    "fields": { "name": "Salami, whole (2)",
+    "store": "Aldi",
+    "price": 0.00
+  }},
+  {
+    "pk": 130,
+    "model": "foods.ingredient",
+    "fields": { "name": "Salsa, medium",
+    "store": "Aldi",
+    "price": 1.49
+  }},
+  {
+    "pk": 131,
+    "model": "foods.ingredient",
+    "fields": { "name": "Salt, iodized",
+    "store": "Aldi",
+    "price": 0.35
+  }},
+  {
+    "pk": 132,
+    "model": "foods.ingredient",
+    "fields": { "name": "Soda, bottle",
+    "store": "Aldi",
+    "price": 0.69
+  }},
+  {
+    "pk": 133,
+    "model": "foods.ingredient",
+    "fields": { "name": "Soda, bottle (Coke product)",
+    "store": "Aldi",
+    "price": 0.00
+  }},
+  {
+    "pk": 134,
+    "model": "foods.ingredient",
+    "fields": { "name": "Soda, can",
+    "store": "Aldi",
+    "price": 2.29
+  }},
+  {
+    "pk": 135,
+    "model": "foods.ingredient",
+    "fields": { "name": "Soda, can (Coke product)",
+    "store": "Aldi",
+    "price": 0.00
+  }},
+  {
+    "pk": 136,
+    "model": "foods.ingredient",
+    "fields": { "name": "Soup, Chicken Noodle, condensed",
+    "store": "Aldi",
+    "price": 0.59
+  }},
+  {
+    "pk": 137,
+    "model": "foods.ingredient",
+    "fields": { "name": "Soup, Chicken Noodle, regular",
+    "store": "Aldi",
+    "price": 1.39
+  }},
+  {
+    "pk": 138,
+    "model": "foods.ingredient",
+    "fields": { "name": "Soup, organic",
+    "store": "Aldi",
+    "price": 0.00
+  }},
+  {
+    "pk": 139,
+    "model": "foods.ingredient",
+    "fields": { "name": "Soup, Tomato, condensed",
+    "store": "Aldi",
+    "price": 0.49
+  }},
+  {
+    "pk": 140,
+    "model": "foods.ingredient",
+    "fields": { "name": "Soup, Tomato, regular",
+    "store": "Aldi",
+    "price": 0.00
+  }},
+  {
+    "pk": 141,
+    "model": "foods.ingredient",
+    "fields": { "name": "Sour Cream",
+    "store": "Aldi",
+    "price": 1.29
+  }},
+  {
+    "pk": 142,
+    "model": "foods.ingredient",
+    "fields": { "name": "Spaghetti Sauce",
+    "store": "Aldi",
+    "price": 1.19
+  }},
+  {
+    "pk": 143,
+    "model": "foods.ingredient",
+    "fields": { "name": "Sugar, brown",
+    "store": "Aldi",
+    "price": 1.49
+  }},
+  {
+    "pk": 144,
+    "model": "foods.ingredient",
+    "fields": { "name": "Sugar, powdered",
+    "store": "Aldi",
+    "price": 1.49
+  }},
+  {
+    "pk": 145,
+    "model": "foods.ingredient",
+    "fields": { "name": "Sugar, white",
+    "store": "Aldi",
+    "price": 2.19
+  }},
+  {
+    "pk": 146,
+    "model": "foods.ingredient",
+    "fields": { "name": "Syrup, breakfast",
+    "store": "Aldi",
+    "price": 1.59
+  }},
+  {
+    "pk": 147,
+    "model": "foods.ingredient",
+    "fields": { "name": "Tea, green, bags",
+    "store": "Aldi",
+    "price": 1.19
+  }},
+  {
+    "pk": 148,
+    "model": "foods.ingredient",
+    "fields": { "name": "Tomato Paste",
+    "store": "Aldi",
+    "price": 0.39
+  }},
+  {
+    "pk": 149,
+    "model": "foods.ingredient",
+    "fields": { "name": "Tomato Sauce",
+    "store": "Aldi",
+    "price": 0.29
+  }},
+  {
+    "pk": 150,
+    "model": "foods.ingredient",
+    "fields": { "name": "Tomatoes, slicer",
+    "store": "Aldi",
+    "price": 1.59
+  }},
+  {
+    "pk": 151,
+    "model": "foods.ingredient",
+    "fields": { "name": "Tuna, chunky, in water",
+    "store": "Aldi",
+    "price": 0.59
+  }},
+  {
+    "pk": 152,
+    "model": "foods.ingredient",
+    "fields": { "name": "Tuna, solid, in water",
+    "store": "Aldi",
+    "price": 1.15
+  }},
+  {
+    "pk": 153,
+    "model": "foods.ingredient",
+    "fields": { "name": "Vanilla Extract, pure (not imitation)",
+    "store": "Aldi",
+    "price": 1.99
+  }},
+  {
+    "pk": 154,
+    "model": "foods.ingredient",
+    "fields": { "name": "Veggies 1, frozen (peas)",
+    "store": "Aldi",
+    "price": 0.89
+  }},
+  {
+    "pk": 155,
+    "model": "foods.ingredient",
+    "fields": { "name": "Veggies 2, frozen (other)",
+    "store": "Aldi",
+    "price": 0.65
+  }},
+  {
+    "pk": 156,
+    "model": "foods.ingredient",
+    "fields": { "name": "Waffles, frozen",
+    "store": "Aldi",
+    "price": 1.29
+  }},
+  {
+    "pk": 157,
+    "model": "foods.ingredient",
+    "fields": { "name": "Water, regular/drinking",
+    "store": "Aldi",
+    "price": 2.49
+  }},
+  {
+    "pk": 158,
+    "model": "foods.ingredient",
+    "fields": { "name": "Water, Sparkling/Mineral",
+    "store": "Aldi",
+    "price": 0.00
+  }},
+  {
+    "pk": 159,
+    "model": "foods.ingredient",
+    "fields": { "name": "White Bread/Toast, enriched",
+    "store": "Aldi",
+    "price": 0.79
+  }},
+  {
+    "pk": 160,
+    "model": "foods.ingredient",
+    "fields": { "name": "Wine, table, Cabernet",
+    "store": "Aldi",
+    "price": 2.89
+  }},
+  {
+    "pk": 161,
+    "model": "foods.ingredient",
+    "fields": { "name": "Wine, table, Chardonnay",
+    "store": "Aldi",
+    "price": 2.89
+  }},
+  {
+    "pk": 162,
+    "model": "foods.ingredient",
+    "fields": { "name": "Wine, table, White Zinfandel",
+    "store": "Aldi",
+    "price": 2.89
+  }},
+  {
+    "pk": 163,
+    "model": "foods.ingredient",
+    "fields": { "name": "Yoghurt, Dannon (etc.)",
+    "store": "Aldi",
+    "price": 1.79
+  }},
+  {
+    "pk": 164,
+    "model": "foods.ingredient",
+    "fields": { "name": "Yogurt, Fage, 2%, plain",
+    "store": "Aldi",
+    "price": 0.00
+  }},
+  {
+    "pk": 165,
+    "model": "foods.ingredient",
+    "fields": { "name": "Yogurt, Fage, w/ flavor",
+    "store": "Aldi",
+    "price": 1.19
+  }},
+  {
+    "pk": 166,
+    "model": "foods.ingredient",
+    "fields": { "name": "Yogurt, flavored, cup",
+    "store": "Aldi",
+    "price": 0.39
+  }},
+  {
+    "pk": 167,
+    "model": "foods.ingredient",
+    "fields": { "name": "Yogurt, greek style, plain",
+    "store": "Aldi",
+    "price": 0.89
+  }},
+  {
+    "pk": 168,
+    "model": "foods.ingredient",
+    "fields": { "name": "Yogurt, plain",
+    "store": "Aldi",
+    "price": 1.99
+  }},
+  {
+    "pk": 169,
+    "model": "foods.ingredient",
+    "fields": { "name": "Aluminum Foil",
+    "store": "Kroger",
+    "price": 2.49
+  }},
+  {
+    "pk": 170,
+    "model": "foods.ingredient",
+    "fields": { "name": "Apple Juice",
+    "store": "Kroger",
+    "price": 1.5
+  }},
+  {
+    "pk": 171,
+    "model": "foods.ingredient",
+    "fields": { "name": "Apple Sauce",
+    "store": "Kroger",
+    "price": 2.89
+  }},
+  {
+    "pk": 172,
+    "model": "foods.ingredient",
+    "fields": { "name": "Apples, Gala, bag",
+    "store": "Kroger",
+    "price": 5.79
+  }},
+  {
+    "pk": 173,
+    "model": "foods.ingredient",
+    "fields": { "name": "Apples, Red/Golden Delicious (and/or other), bag",
+    "store": "Kroger",
+    "price": 3.99
+  }},
+  {
+    "pk": 174,
+    "model": "foods.ingredient",
+    "fields": { "name": "Bacon",
+    "store": "Kroger",
+    "price": 3.79
+  }},
+  {
+    "pk": 175,
+    "model": "foods.ingredient",
+    "fields": { "name": "Bagles, plain",
+    "store": "Kroger",
+    "price": 2.19
+  }},
+  {
+    "pk": 176,
+    "model": "foods.ingredient",
+    "fields": { "name": "Baguette Rolls, frozen",
+    "store": "Kroger",
+    "price": 4.19
+  }},
+  {
+    "pk": 177,
+    "model": "foods.ingredient",
+    "fields": { "name": "Baguette/French Bread",
+    "store": "Kroger",
+    "price": 1.5
+  }},
+  {
+    "pk": 178,
+    "model": "foods.ingredient",
+    "fields": { "name": "Barbeque Sauce",
+    "store": "Kroger",
+    "price": 1
+  }},
+  {
+    "pk": 179,
+    "model": "foods.ingredient",
+    "fields": { "name": "Beef Stew Meat",
+    "store": "Kroger",
+    "price": 2.74
+  }},
+  {
+    "pk": 180,
+    "model": "foods.ingredient",
+    "fields": { "name": "Beer, bottle, pilsener, import",
+    "store": "Kroger",
+    "price": 8.99
+  }},
+  {
+    "pk": 181,
+    "model": "foods.ingredient",
+    "fields": { "name": "Beer, cans",
+    "store": "Kroger",
+    "price": 23.49
+  }},
+  {
+    "pk": 182,
+    "model": "foods.ingredient",
+    "fields": { "name": "Brats, 4-6 pack",
+    "store": "Kroger",
+    "price": 2.59
+  }},
+  {
+    "pk": 183,
+    "model": "foods.ingredient",
+    "fields": { "name": "Bread Crumbs",
+    "store": "Kroger",
+    "price": 1.47
+  }},
+  {
+    "pk": 184,
+    "model": "foods.ingredient",
+    "fields": { "name": "Bread, 12-grain/multi-grain",
+    "store": "Kroger",
+    "price": 4.29
+  }},
+  {
+    "pk": 185,
+    "model": "foods.ingredient",
+    "fields": { "name": "Breakfast Sausage, frozen",
+    "store": "Kroger",
+    "price": 1.99
+  }},
+  {
+    "pk": 186,
+    "model": "foods.ingredient",
+    "fields": { "name": "Butter, real, unsalted/salted",
+    "store": "Kroger",
+    "price": 2.69
+  }},
+  {
+    "pk": 187,
+    "model": "foods.ingredient",
+    "fields": { "name": "Carrots, whole",
+    "store": "Kroger",
+    "price": 0.99
+  }},
+  {
+    "pk": 188,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cereal, Müsli style",
+    "store": "Kroger",
+    "price": 2.67
+  }},
+  {
+    "pk": 189,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheery Pie Filling",
+    "store": "Kroger",
+    "price": 3.99
+  }},
+  {
+    "pk": 190,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheese Singles (imitation)",
+    "store": "Kroger",
+    "price": 3.59
+  }},
+  {
+    "pk": 191,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheese, block (regular)",
+    "store": "Kroger",
+    "price": 3.29
+  }},
+  {
+    "pk": 192,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheese, Boursin",
+    "store": "Kroger",
+    "price": 5.99
+  }},
+  {
+    "pk": 193,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheese, Brie 1",
+    "store": "Kroger",
+    "price": 4.79
+  }},
+  {
+    "pk": 194,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheese, Brie 2",
+    "store": "Kroger",
+    "price": 5.99
+  }},
+  {
+    "pk": 195,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheese, Parmesan, jar",
+    "store": "Kroger",
+    "price": 2.19
+  }},
+  {
+    "pk": 196,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheese, shredded, Mexican style",
+    "store": "Kroger",
+    "price": 8.99
+  }},
+  {
+    "pk": 197,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheese, shredded, Mozarella",
+    "store": "Kroger",
+    "price": 1.5
+  }},
+  {
+    "pk": 198,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheese, sliced, deli",
+    "store": "Kroger",
+    "price": 4.38
+  }},
+  {
+    "pk": 199,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheese, sliced, regular",
+    "store": "Kroger",
+    "price": 2.69
+  }},
+  {
+    "pk": 200,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheese, wedge, deli",
+    "store": "Kroger",
+    "price": 6.99
+  }},
+  {
+    "pk": 201,
+    "model": "foods.ingredient",
+    "fields": { "name": "Chicken Breasts, frozen",
+    "store": "Kroger",
+    "price": 8.99
+  }},
+  {
+    "pk": 202,
+    "model": "foods.ingredient",
+    "fields": { "name": "Chicken Nuggets, frozen",
+    "store": "Kroger",
+    "price": 3.79
+  }},
+  {
+    "pk": 203,
+    "model": "foods.ingredient",
+    "fields": { "name": "Chicken Tenderloins, frozen",
+    "store": "Kroger",
+    "price": 8.99
+  }},
+  {
+    "pk": 204,
+    "model": "foods.ingredient",
+    "fields": { "name": "Chips, potato chips",
+    "store": "Kroger",
+    "price": 2.99
+  }},
+  {
+    "pk": 205,
+    "model": "foods.ingredient",
+    "fields": { "name": "Chocolate Chip Cookie Dough",
+    "store": "Kroger",
+    "price": 2.19
+  }},
+  {
+    "pk": 206,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cocoa Rice Cereal",
+    "store": "Kroger",
+    "price": 1.99
+  }},
+  {
+    "pk": 207,
+    "model": "foods.ingredient",
+    "fields": { "name": "Coconut Milk",
+    "store": "Kroger",
+    "price": 2.29
+  }},
+  {
+    "pk": 208,
+    "model": "foods.ingredient",
+    "fields": { "name": "Coffee",
+    "store": "Kroger",
+    "price": 4.19
+  }},
+  {
+    "pk": 209,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cold Cuts, ham or chicken",
+    "store": "Kroger",
+    "price": 3.79
+  }},
+  {
+    "pk": 210,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cold Cuts, turkey variety",
+    "store": "Kroger",
+    "price": 3.69
+  }},
+  {
+    "pk": 211,
+    "model": "foods.ingredient",
+    "fields": { "name": "Corn Flakes, regular",
+    "store": "Kroger",
+    "price": 0.99
+  }},
+  {
+    "pk": 212,
+    "model": "foods.ingredient",
+    "fields": { "name": "Corn Flakes, sugar frosted",
+    "store": "Kroger",
+    "price": 1.25
+  }},
+  {
+    "pk": 213,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cottage Cheese",
+    "store": "Kroger",
+    "price": 1.69
+  }},
+  {
+    "pk": 214,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cream Cheese",
+    "store": "Kroger",
+    "price": 1
+  }},
+  {
+    "pk": 215,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cream, heavy whipping",
+    "store": "Kroger",
+    "price": 2.39
+  }},
+  {
+    "pk": 216,
+    "model": "foods.ingredient",
+    "fields": { "name": "Croissants",
+    "store": "Kroger",
+    "price": 3.99
+  }},
+  {
+    "pk": 217,
+    "model": "foods.ingredient",
+    "fields": { "name": "Eggs, cage free",
+    "store": "Kroger",
+    "price": 2.19
+  }},
+  {
+    "pk": 218,
+    "model": "foods.ingredient",
+    "fields": { "name": "Eggs, regular",
+    "store": "Kroger",
+    "price": 1.89
+  }},
+  {
+    "pk": 219,
+    "model": "foods.ingredient",
+    "fields": { "name": "Fish 1, frozen (flounder)",
+    "store": "Kroger",
+    "price": 5.99
+  }},
+  {
+    "pk": 220,
+    "model": "foods.ingredient",
+    "fields": { "name": "Fish 2, frozen (tilapia)",
+    "store": "Kroger",
+    "price": 5.99
+  }},
+  {
+    "pk": 221,
+    "model": "foods.ingredient",
+    "fields": { "name": "Fish 3, frozen",
+    "store": "Kroger",
+    "price": 9.99
+  }},
+  {
+    "pk": 222,
+    "model": "foods.ingredient",
+    "fields": { "name": "(mahi mahi and/or other)",
+    "store": "Kroger",
+    "price": 0.00
+  }},
+  {
+    "pk": 223,
+    "model": "foods.ingredient",
+    "fields": { "name": "Flour, all purpose",
+    "store": "Kroger",
+    "price": 2.79
+  }},
+  {
+    "pk": 224,
+    "model": "foods.ingredient",
+    "fields": { "name": "Flour, self rising",
+    "store": "Kroger",
+    "price": 2.79
+  }},
+  {
+    "pk": 225,
+    "model": "foods.ingredient",
+    "fields": { "name": "French Fries, frozen",
+    "store": "Kroger",
+    "price": 1.99
+  }},
+  {
+    "pk": 226,
+    "model": "foods.ingredient",
+    "fields": { "name": "Fruit 1, frozen (strawberries)",
+    "store": "Kroger",
+    "price": 2.99
+  }},
+  {
+    "pk": 227,
+    "model": "foods.ingredient",
+    "fields": { "name": "Fruit 2, frozen",
+    "store": "Kroger",
+    "price": 4.59
+  }},
+  {
+    "pk": 228,
+    "model": "foods.ingredient",
+    "fields": { "name": "(cherries and/or other)",
+    "store": "Kroger",
+    "price": 0.00
+  }},
+  {
+    "pk": 229,
+    "model": "foods.ingredient",
+    "fields": { "name": "Granola Bars, high fiber",
+    "store": "Kroger",
+    "price": 2.39
+  }},
+  {
+    "pk": 230,
+    "model": "foods.ingredient",
+    "fields": { "name": "Granola Bars, regular",
+    "store": "Kroger",
+    "price": 2.39
+  }},
+  {
+    "pk": 231,
+    "model": "foods.ingredient",
+    "fields": { "name": "Grapes, red",
+    "store": "Kroger",
+    "price": 1.99
+  }},
+  {
+    "pk": 232,
+    "model": "foods.ingredient",
+    "fields": { "name": "Green Beans, canned",
+    "store": "Kroger",
+    "price": 0.69
+  }},
+  {
+    "pk": 233,
+    "model": "foods.ingredient",
+    "fields": { "name": "Ground Beef (chuck, 80/20)",
+    "store": "Kroger",
+    "price": 2.79
+  }},
+  {
+    "pk": 234,
+    "model": "foods.ingredient",
+    "fields": { "name": "Ground Beef (sirloin, 90/10)",
+    "store": "Kroger",
+    "price": 4.59
+  }},
+  {
+    "pk": 235,
+    "model": "foods.ingredient",
+    "fields": { "name": "Ground Beef, frozen",
+    "store": "Kroger",
+    "price": 10.99
+  }},
+  {
+    "pk": 236,
+    "model": "foods.ingredient",
+    "fields": { "name": "Ground Turkey",
+    "store": "Kroger",
+    "price": 2.26
+  }},
+  {
+    "pk": 237,
+    "model": "foods.ingredient",
+    "fields": { "name": "Ground Turkey, frozen",
+    "store": "Kroger",
+    "price": 4.99
+  }},
+  {
+    "pk": 238,
+    "model": "foods.ingredient",
+    "fields": { "name": "Ham, boneless",
+    "store": "Kroger",
+    "price": 6.39
+  }},
+  {
+    "pk": 239,
+    "model": "foods.ingredient",
+    "fields": { "name": "Honey",
+    "store": "Kroger",
+    "price": 5.78
+  }},
+  {
+    "pk": 240,
+    "model": "foods.ingredient",
+    "fields": { "name": "Honey Crunch Oats",
+    "store": "Kroger",
+    "price": 2.49
+  }},
+  {
+    "pk": 241,
+    "model": "foods.ingredient",
+    "fields": { "name": "Hot Dog Buns",
+    "store": "Kroger",
+    "price": 1.39
+  }},
+  {
+    "pk": 242,
+    "model": "foods.ingredient",
+    "fields": { "name": "Hot Dogs, beef",
+    "store": "Kroger",
+    "price": 5.29
+  }},
+  {
+    "pk": 243,
+    "model": "foods.ingredient",
+    "fields": { "name": "Ice Cream, premium",
+    "store": "Kroger",
+    "price": 5.49
+  }},
+  {
+    "pk": 244,
+    "model": "foods.ingredient",
+    "fields": { "name": "Ice Cream, simple",
+    "store": "Kroger",
+    "price": 1.5
+  }},
+  {
+    "pk": 245,
+    "model": "foods.ingredient",
+    "fields": { "name": "Jalopeño Peppers, canned",
+    "store": "Kroger",
+    "price": 1.34
+  }},
+  {
+    "pk": 246,
+    "model": "foods.ingredient",
+    "fields": { "name": "Ketchup",
+    "store": "Kroger",
+    "price": 1.29
+  }},
+  {
+    "pk": 247,
+    "model": "foods.ingredient",
+    "fields": { "name": "Kielbasa",
+    "store": "Kroger",
+    "price": 2.97
+  }},
+  {
+    "pk": 248,
+    "model": "foods.ingredient",
+    "fields": { "name": "Lemons",
+    "store": "Kroger",
+    "price": 3.49
+  }},
+  {
+    "pk": 249,
+    "model": "foods.ingredient",
+    "fields": { "name": "Lettuce, iceberg",
+    "store": "Kroger",
+    "price": 1.25
+  }},
+  {
+    "pk": 250,
+    "model": "foods.ingredient",
+    "fields": { "name": "Mandarin Oranges, canned",
+    "store": "Kroger",
+    "price": 1
+  }},
+  {
+    "pk": 251,
+    "model": "foods.ingredient",
+    "fields": { "name": "Margarine/Spread",
+    "store": "Kroger",
+    "price": 1.49
+  }},
+  {
+    "pk": 252,
+    "model": "foods.ingredient",
+    "fields": { "name": "Mayonnaise",
+    "store": "Kroger",
+    "price": 2.99
+  }},
+  {
+    "pk": 253,
+    "model": "foods.ingredient",
+    "fields": { "name": "Milk",
+    "store": "Kroger",
+    "price": 3.19
+  }},
+  {
+    "pk": 254,
+    "model": "foods.ingredient",
+    "fields": { "name": "Milk Chocolate Bar",
+    "store": "Kroger",
+    "price": 2.49
+  }},
+  {
+    "pk": 255,
+    "model": "foods.ingredient",
+    "fields": { "name": "Milk, organic",
+    "store": "Kroger",
+    "price": 3.79
+  }},
+  {
+    "pk": 256,
+    "model": "foods.ingredient",
+    "fields": { "name": "Mushrooms, Button, whole",
+    "store": "Kroger",
+    "price": 1.99
+  }},
+  {
+    "pk": 257,
+    "model": "foods.ingredient",
+    "fields": { "name": "Mushrooms, stems/pieces",
+    "store": "Kroger",
+    "price": 0.99
+  }},
+  {
+    "pk": 258,
+    "model": "foods.ingredient",
+    "fields": { "name": "Mustard, dijon",
+    "store": "Kroger",
+    "price": 1.49
+  }},
+  {
+    "pk": 259,
+    "model": "foods.ingredient",
+    "fields": { "name": "Mustard, yellow",
+    "store": "Kroger",
+    "price": 1.49
+  }},
+  {
+    "pk": 260,
+    "model": "foods.ingredient",
+    "fields": { "name": "Nutella",
+    "store": "Kroger",
+    "price": 3.99
+  }},
+  {
+    "pk": 261,
+    "model": "foods.ingredient",
+    "fields": { "name": "Oat Meal",
+    "store": "Kroger",
+    "price": 1.5
+  }},
+  {
+    "pk": 262,
+    "model": "foods.ingredient",
+    "fields": { "name": "Oil, Canola, 100% pure",
+    "store": "Kroger",
+    "price": 2.99
+  }},
+  {
+    "pk": 263,
+    "model": "foods.ingredient",
+    "fields": { "name": "Oil, Olive, 100% pure",
+    "store": "Kroger",
+    "price": 7.89
+  }},
+  {
+    "pk": 264,
+    "model": "foods.ingredient",
+    "fields": { "name": "Oil, Olive, extra virgin",
+    "store": "Kroger",
+    "price": 8.29
+  }},
+  {
+    "pk": 265,
+    "model": "foods.ingredient",
+    "fields": { "name": "Onions, yellow",
+    "store": "Kroger",
+    "price": 2.29
+  }},
+  {
+    "pk": 266,
+    "model": "foods.ingredient",
+    "fields": { "name": "Orange Juice, not from concentrate",
+    "store": "Kroger",
+    "price": 3.49
+  }},
+  {
+    "pk": 267,
+    "model": "foods.ingredient",
+    "fields": { "name": "Oranges",
+    "store": "Kroger",
+    "price": 6.99
+  }},
+  {
+    "pk": 268,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pancetta or Ham, diced",
+    "store": "Kroger",
+    "price": 5.79
+  }},
+  {
+    "pk": 269,
+    "model": "foods.ingredient",
+    "fields": { "name": "Paper Towles",
+    "store": "Kroger",
+    "price": 0.7
+  }},
+  {
+    "pk": 270,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pasta, Egg Noodles",
+    "store": "Kroger",
+    "price": 1.5
+  }},
+  {
+    "pk": 271,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pasta, Ellbow Maccaroni",
+    "store": "Kroger",
+    "price": 0.88
+  }},
+  {
+    "pk": 272,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pasta, Penne Rigate",
+    "store": "Kroger",
+    "price": 1.39
+  }},
+  {
+    "pk": 273,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pasta, Rotini/Rotelle/Fusilli",
+    "store": "Kroger",
+    "price": 1.39
+  }},
+  {
+    "pk": 274,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pasta, Spaghetti",
+    "store": "Kroger",
+    "price": 0.88
+  }},
+  {
+    "pk": 275,
+    "model": "foods.ingredient",
+    "fields": { "name": "Peanut Butter",
+    "store": "Kroger",
+    "price": 2.79
+  }},
+  {
+    "pk": 276,
+    "model": "foods.ingredient",
+    "fields": { "name": "Peanuts, roasted",
+    "store": "Kroger",
+    "price": 2.64
+  }},
+  {
+    "pk": 277,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pears",
+    "store": "Kroger",
+    "price": 1.39
+  }},
+  {
+    "pk": 278,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pepper, black, ground",
+    "store": "Kroger",
+    "price": 3.99
+  }},
+  {
+    "pk": 279,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pizza Dough",
+    "store": "Kroger",
+    "price": 2.99
+  }},
+  {
+    "pk": 280,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pizza, frozen (premium)",
+    "store": "Kroger",
+    "price": 3.67
+  }},
+  {
+    "pk": 281,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pizza, frozen (simple)",
+    "store": "Kroger",
+    "price": 2.99
+  }},
+  {
+    "pk": 282,
+    "model": "foods.ingredient",
+    "fields": { "name": "Plastic Wrap",
+    "store": "Kroger",
+    "price": 1.99
+  }},
+  {
+    "pk": 283,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pork Tenderloin, small",
+    "store": "Kroger",
+    "price": 4.27
+  }},
+  {
+    "pk": 284,
+    "model": "foods.ingredient",
+    "fields": { "name": "Potatoes, gold (Yukon)",
+    "store": "Kroger",
+    "price": 5.99
+  }},
+  {
+    "pk": 285,
+    "model": "foods.ingredient",
+    "fields": { "name": "Potatoes, red",
+    "store": "Kroger",
+    "price": 3.49
+  }},
+  {
+    "pk": 286,
+    "model": "foods.ingredient",
+    "fields": { "name": "Potatoes, Russet",
+    "store": "Kroger",
+    "price": 3.29
+  }},
+  {
+    "pk": 287,
+    "model": "foods.ingredient",
+    "fields": { "name": "Preserves, strawberry",
+    "store": "Kroger",
+    "price": 2.49
+  }},
+  {
+    "pk": 288,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pretzels",
+    "store": "Kroger",
+    "price": 1.67
+  }},
+  {
+    "pk": 289,
+    "model": "foods.ingredient",
+    "fields": { "name": "Red Cabbage",
+    "store": "Kroger",
+    "price": 1.79
+  }},
+  {
+    "pk": 290,
+    "model": "foods.ingredient",
+    "fields": { "name": "Ribs, Baby Back (pork, unseasoned)",
+    "store": "Kroger",
+    "price": 3.99
+  }},
+  {
+    "pk": 291,
+    "model": "foods.ingredient",
+    "fields": { "name": "Ribs, Spare Back (pork, unseasoned)",
+    "store": "Kroger",
+    "price": 2.99
+  }},
+  {
+    "pk": 292,
+    "model": "foods.ingredient",
+    "fields": { "name": "Rice, instant, white",
+    "store": "Kroger",
+    "price": 1.49
+  }},
+  {
+    "pk": 293,
+    "model": "foods.ingredient",
+    "fields": { "name": "Rice, regular",
+    "store": "Kroger",
+    "price": 2.98
+  }},
+  {
+    "pk": 294,
+    "model": "foods.ingredient",
+    "fields": { "name": "Salad Dressing",
+    "store": "Kroger",
+    "price": 1.67
+  }},
+  {
+    "pk": 295,
+    "model": "foods.ingredient",
+    "fields": { "name": "Salami, sliced",
+    "store": "Kroger",
+    "price": 2.74
+  }},
+  {
+    "pk": 296,
+    "model": "foods.ingredient",
+    "fields": { "name": "Salami, whole (1)",
+    "store": "Kroger",
+    "price": 8.99
+  }},
+  {
+    "pk": 297,
+    "model": "foods.ingredient",
+    "fields": { "name": "Salami, whole (2)",
+    "store": "Kroger",
+    "price": 7.99
+  }},
+  {
+    "pk": 298,
+    "model": "foods.ingredient",
+    "fields": { "name": "Salsa, medium",
+    "store": "Kroger",
+    "price": 2.69
+  }},
+  {
+    "pk": 299,
+    "model": "foods.ingredient",
+    "fields": { "name": "Salt, iodized",
+    "store": "Kroger",
+    "price": 0.47
+  }},
+  {
+    "pk": 300,
+    "model": "foods.ingredient",
+    "fields": { "name": "Soda, bottle",
+    "store": "Kroger",
+    "price": 0.88
+  }},
+  {
+    "pk": 301,
+    "model": "foods.ingredient",
+    "fields": { "name": "Soda, bottle (Coke product)",
+    "store": "Kroger",
+    "price": 1.67
+  }},
+  {
+    "pk": 302,
+    "model": "foods.ingredient",
+    "fields": { "name": "Soda, can",
+    "store": "Kroger",
+    "price": 2.77
+  }},
+  {
+    "pk": 303,
+    "model": "foods.ingredient",
+    "fields": { "name": "Soda, can (Coke product)",
+    "store": "Kroger",
+    "price": 4.99
+  }},
+  {
+    "pk": 304,
+    "model": "foods.ingredient",
+    "fields": { "name": "Soup, Chicken Noodle, condensed",
+    "store": "Kroger",
+    "price": 0.67
+  }},
+  {
+    "pk": 305,
+    "model": "foods.ingredient",
+    "fields": { "name": "Soup, Chicken Noodle, regular",
+    "store": "Kroger",
+    "price": 1.87
+  }},
+  {
+    "pk": 306,
+    "model": "foods.ingredient",
+    "fields": { "name": "Soup, organic",
+    "store": "Kroger",
+    "price": 2.98
+  }},
+  {
+    "pk": 307,
+    "model": "foods.ingredient",
+    "fields": { "name": "Soup, Tomato, condensed",
+    "store": "Kroger",
+    "price": 1.09
+  }},
+  {
+    "pk": 308,
+    "model": "foods.ingredient",
+    "fields": { "name": "Soup, Tomato, regular",
+    "store": "Kroger",
+    "price": 2.07
+  }},
+  {
+    "pk": 309,
+    "model": "foods.ingredient",
+    "fields": { "name": "Sour Cream",
+    "store": "Kroger",
+    "price": 1.54
+  }},
+  {
+    "pk": 310,
+    "model": "foods.ingredient",
+    "fields": { "name": "Spaghetti Sauce",
+    "store": "Kroger",
+    "price": 1.27
+  }},
+  {
+    "pk": 311,
+    "model": "foods.ingredient",
+    "fields": { "name": "Sugar, brown",
+    "store": "Kroger",
+    "price": 2.19
+  }},
+  {
+    "pk": 312,
+    "model": "foods.ingredient",
+    "fields": { "name": "Sugar, powdered",
+    "store": "Kroger",
+    "price": 2.19
+  }},
+  {
+    "pk": 313,
+    "model": "foods.ingredient",
+    "fields": { "name": "Sugar, white",
+    "store": "Kroger",
+    "price": 2.58
+  }},
+  {
+    "pk": 314,
+    "model": "foods.ingredient",
+    "fields": { "name": "Syrup, breakfast",
+    "store": "Kroger",
+    "price": 1.98
+  }},
+  {
+    "pk": 315,
+    "model": "foods.ingredient",
+    "fields": { "name": "Tea, green, bags",
+    "store": "Kroger",
+    "price": 2.49
+  }},
+  {
+    "pk": 316,
+    "model": "foods.ingredient",
+    "fields": { "name": "Tomato Paste",
+    "store": "Kroger",
+    "price": 0.59
+  }},
+  {
+    "pk": 317,
+    "model": "foods.ingredient",
+    "fields": { "name": "Tomato Sauce",
+    "store": "Kroger",
+    "price": 0.33
+  }},
+  {
+    "pk": 318,
+    "model": "foods.ingredient",
+    "fields": { "name": "Tomatoes, slicer",
+    "store": "Kroger",
+    "price": 1.99
+  }},
+  {
+    "pk": 319,
+    "model": "foods.ingredient",
+    "fields": { "name": "Tuna, chunky, in water",
+    "store": "Kroger",
+    "price": 0.75
+  }},
+  {
+    "pk": 320,
+    "model": "foods.ingredient",
+    "fields": { "name": "Tuna, solid, in water",
+    "store": "Kroger",
+    "price": 1.99
+  }},
+  {
+    "pk": 321,
+    "model": "foods.ingredient",
+    "fields": { "name": "Vanilla Extract, pure (not imitation)",
+    "store": "Kroger",
+    "price": 6.99
+  }},
+  {
+    "pk": 322,
+    "model": "foods.ingredient",
+    "fields": { "name": "Veggies 1, frozen (peas)",
+    "store": "Kroger",
+    "price": 2.48
+  }},
+  {
+    "pk": 323,
+    "model": "foods.ingredient",
+    "fields": { "name": "Veggies 2, frozen (other)",
+    "store": "Kroger",
+    "price": 1.49
+  }},
+  {
+    "pk": 324,
+    "model": "foods.ingredient",
+    "fields": { "name": "Waffles, frozen",
+    "store": "Kroger",
+    "price": 1.89
+  }},
+  {
+    "pk": 325,
+    "model": "foods.ingredient",
+    "fields": { "name": "Water, regular/drinking",
+    "store": "Kroger",
+    "price": 0.59
+  }},
+  {
+    "pk": 326,
+    "model": "foods.ingredient",
+    "fields": { "name": "Water, Sparkling/Mineral",
+    "store": "Kroger",
+    "price": 1.69
+  }},
+  {
+    "pk": 327,
+    "model": "foods.ingredient",
+    "fields": { "name": "White Bread/Toast, enriched",
+    "store": "Kroger",
+    "price": 0.88
+  }},
+  {
+    "pk": 328,
+    "model": "foods.ingredient",
+    "fields": { "name": "Wine, table, Cabernet",
+    "store": "Kroger",
+    "price": 6.99
+  }},
+  {
+    "pk": 329,
+    "model": "foods.ingredient",
+    "fields": { "name": "Wine, table, Chardonnay",
+    "store": "Kroger",
+    "price": 6.99
+  }},
+  {
+    "pk": 330,
+    "model": "foods.ingredient",
+    "fields": { "name": "Wine, table, White Zinfandel",
+    "store": "Kroger",
+    "price": 7.49
+  }},
+  {
+    "pk": 331,
+    "model": "foods.ingredient",
+    "fields": { "name": "Yoghurt, Dannon (etc.)",
+    "store": "Kroger",
+    "price": 2.38
+  }},
+  {
+    "pk": 332,
+    "model": "foods.ingredient",
+    "fields": { "name": "Yogurt, Fage, 2%, plain",
+    "store": "Kroger",
+    "price": 1.69
+  }},
+  {
+    "pk": 333,
+    "model": "foods.ingredient",
+    "fields": { "name": "Yogurt, Fage, w/ flavor",
+    "store": "Kroger",
+    "price": 1.69
+  }},
+  {
+    "pk": 334,
+    "model": "foods.ingredient",
+    "fields": { "name": "Yogurt, flavored, cup",
+    "store": "Kroger",
+    "price": 0.4
+  }},
+  {
+    "pk": 335,
+    "model": "foods.ingredient",
+    "fields": { "name": "Yogurt, greek style, plain",
+    "store": "Kroger",
+    "price": 1.29
+  }},
+  {
+    "pk": 336,
+    "model": "foods.ingredient",
+    "fields": { "name": "Yogurt, plain",
+    "store": "Kroger",
+    "price": 1.99
+  }},
+  {
+    "pk": 337,
+    "model": "foods.ingredient",
+    "fields": { "name": "Aluminum Foil",
+    "store": "Trader's Joe",
+    "price": 0.00
+  }},
+  {
+    "pk": 338,
+    "model": "foods.ingredient",
+    "fields": { "name": "Apple Juice",
+    "store": "Trader's Joe",
+    "price": 2.99
+  }},
+  {
+    "pk": 339,
+    "model": "foods.ingredient",
+    "fields": { "name": "Apple Sauce",
+    "store": "Trader's Joe",
+    "price": 1.99
+  }},
+  {
+    "pk": 340,
+    "model": "foods.ingredient",
+    "fields": { "name": "Apples, Gala, bag",
+    "store": "Trader's Joe",
+    "price": 2.99
+  }},
+  {
+    "pk": 341,
+    "model": "foods.ingredient",
+    "fields": { "name": "Apples, Red/Golden Delicious (and/or other), bag",
+    "store": "Trader's Joe",
+    "price": 2.49
+  }},
+  {
+    "pk": 342,
+    "model": "foods.ingredient",
+    "fields": { "name": "Bacon",
+    "store": "Trader's Joe",
+    "price": 3.99
+  }},
+  {
+    "pk": 343,
+    "model": "foods.ingredient",
+    "fields": { "name": "Bagles, plain",
+    "store": "Trader's Joe",
+    "price": 2.49
+  }},
+  {
+    "pk": 344,
+    "model": "foods.ingredient",
+    "fields": { "name": "Baguette Rolls, frozen",
+    "store": "Trader's Joe",
+    "price": 0.00
+  }},
+  {
+    "pk": 345,
+    "model": "foods.ingredient",
+    "fields": { "name": "Baguette/French Bread",
+    "store": "Trader's Joe",
+    "price": 1.99
+  }},
+  {
+    "pk": 346,
+    "model": "foods.ingredient",
+    "fields": { "name": "Barbeque Sauce",
+    "store": "Trader's Joe",
+    "price": 2.49
+  }},
+  {
+    "pk": 347,
+    "model": "foods.ingredient",
+    "fields": { "name": "Beef Stew Meat",
+    "store": "Trader's Joe",
+    "price": 0.00
+  }},
+  {
+    "pk": 348,
+    "model": "foods.ingredient",
+    "fields": { "name": "Beer, bottle, pilsener, import",
+    "store": "Trader's Joe",
+    "price": 8.99
+  }},
+  {
+    "pk": 349,
+    "model": "foods.ingredient",
+    "fields": { "name": "Beer, cans",
+    "store": "Trader's Joe",
+    "price": 3.99
+  }},
+  {
+    "pk": 350,
+    "model": "foods.ingredient",
+    "fields": { "name": "Brats, 4-6 pack",
+    "store": "Trader's Joe",
+    "price": 3.49
+  }},
+  {
+    "pk": 351,
+    "model": "foods.ingredient",
+    "fields": { "name": "Bread Crumbs",
+    "store": "Trader's Joe",
+    "price": 2.99
+  }},
+  {
+    "pk": 352,
+    "model": "foods.ingredient",
+    "fields": { "name": "Bread, 12-grain/multi-grain",
+    "store": "Trader's Joe",
+    "price": 2.99
+  }},
+  {
+    "pk": 353,
+    "model": "foods.ingredient",
+    "fields": { "name": "Breakfast Sausage, frozen",
+    "store": "Trader's Joe",
+    "price": 3.79
+  }},
+  {
+    "pk": 354,
+    "model": "foods.ingredient",
+    "fields": { "name": "Butter, real, unsalted/salted",
+    "store": "Trader's Joe",
+    "price": 2.99
+  }},
+  {
+    "pk": 355,
+    "model": "foods.ingredient",
+    "fields": { "name": "Carrots, whole",
+    "store": "Trader's Joe",
+    "price": 0.89
+  }},
+  {
+    "pk": 356,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cereal, Müsli style",
+    "store": "Trader's Joe",
+    "price": 3.69
+  }},
+  {
+    "pk": 357,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheery Pie Filling",
+    "store": "Trader's Joe",
+    "price": 2.29
+  }},
+  {
+    "pk": 358,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheese Singles (imitation)",
+    "store": "Trader's Joe",
+    "price": 3.49
+  }},
+  {
+    "pk": 359,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheese, block (regular)",
+    "store": "Trader's Joe",
+    "price": 0.00
+  }},
+  {
+    "pk": 360,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheese, Boursin",
+    "store": "Trader's Joe",
+    "price": 3.79
+  }},
+  {
+    "pk": 361,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheese, Brie 1",
+    "store": "Trader's Joe",
+    "price": 5.99
+  }},
+  {
+    "pk": 362,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheese, Brie 2",
+    "store": "Trader's Joe",
+    "price": 7.99
+  }},
+  {
+    "pk": 363,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheese, Parmesan, jar",
+    "store": "Trader's Joe",
+    "price": 0.00
+  }},
+  {
+    "pk": 364,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheese, shredded, Mexican style",
+    "store": "Trader's Joe",
+    "price": 3.99
+  }},
+  {
+    "pk": 365,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheese, shredded, Mozarella",
+    "store": "Trader's Joe",
+    "price": 3.99
+  }},
+  {
+    "pk": 366,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheese, sliced, deli",
+    "store": "Trader's Joe",
+    "price": 3.99
+  }},
+  {
+    "pk": 367,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheese, sliced, regular",
+    "store": "Trader's Joe",
+    "price": 3.99
+  }},
+  {
+    "pk": 368,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheese, wedge, deli",
+    "store": "Trader's Joe",
+    "price": 6.99
+  }},
+  {
+    "pk": 369,
+    "model": "foods.ingredient",
+    "fields": { "name": "Chicken Breasts, frozen",
+    "store": "Trader's Joe",
+    "price": 6.99
+  }},
+  {
+    "pk": 370,
+    "model": "foods.ingredient",
+    "fields": { "name": "Chicken Nuggets, frozen",
+    "store": "Trader's Joe",
+    "price": 3.79
+  }},
+  {
+    "pk": 371,
+    "model": "foods.ingredient",
+    "fields": { "name": "Chicken Tenderloins, frozen",
+    "store": "Trader's Joe",
+    "price": 6.99
+  }},
+  {
+    "pk": 372,
+    "model": "foods.ingredient",
+    "fields": { "name": "Chips, potato chips",
+    "store": "Trader's Joe",
+    "price": 2.99
+  }},
+  {
+    "pk": 373,
+    "model": "foods.ingredient",
+    "fields": { "name": "Chocolate Chip Cookie Dough",
+    "store": "Trader's Joe",
+    "price": 3.49
+  }},
+  {
+    "pk": 374,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cocoa Rice Cereal",
+    "store": "Trader's Joe",
+    "price": 0.00
+  }},
+  {
+    "pk": 375,
+    "model": "foods.ingredient",
+    "fields": { "name": "Coconut Milk",
+    "store": "Trader's Joe",
+    "price": 0.99
+  }},
+  {
+    "pk": 376,
+    "model": "foods.ingredient",
+    "fields": { "name": "Coffee",
+    "store": "Trader's Joe",
+    "price": 4.99
+  }},
+  {
+    "pk": 377,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cold Cuts, ham or chicken",
+    "store": "Trader's Joe",
+    "price": 2.49
+  }},
+  {
+    "pk": 378,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cold Cuts, turkey variety",
+    "store": "Trader's Joe",
+    "price": 2.99
+  }},
+  {
+    "pk": 379,
+    "model": "foods.ingredient",
+    "fields": { "name": "Corn Flakes, regular",
+    "store": "Trader's Joe",
+    "price": 2.49
+  }},
+  {
+    "pk": 380,
+    "model": "foods.ingredient",
+    "fields": { "name": "Corn Flakes, sugar frosted",
+    "store": "Trader's Joe",
+    "price": 0.00
+  }},
+  {
+    "pk": 381,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cottage Cheese",
+    "store": "Trader's Joe",
+    "price": 1.99
+  }},
+  {
+    "pk": 382,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cream Cheese",
+    "store": "Trader's Joe",
+    "price": 1.79
+  }},
+  {
+    "pk": 383,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cream, heavy whipping",
+    "store": "Trader's Joe",
+    "price": 1.69
+  }},
+  {
+    "pk": 384,
+    "model": "foods.ingredient",
+    "fields": { "name": "Croissants",
+    "store": "Trader's Joe",
+    "price": 3.99
+  }},
+  {
+    "pk": 385,
+    "model": "foods.ingredient",
+    "fields": { "name": "Eggs, cage free",
+    "store": "Trader's Joe",
+    "price": 2.29
+  }},
+  {
+    "pk": 386,
+    "model": "foods.ingredient",
+    "fields": { "name": "Eggs, regular",
+    "store": "Trader's Joe",
+    "price": 1.99
+  }},
+  {
+    "pk": 387,
+    "model": "foods.ingredient",
+    "fields": { "name": "Fish 1, frozen (flounder)",
+    "store": "Trader's Joe",
+    "price": 0.00
+  }},
+  {
+    "pk": 388,
+    "model": "foods.ingredient",
+    "fields": { "name": "Fish 2, frozen (tilapia)",
+    "store": "Trader's Joe",
+    "price": 7.59
+  }},
+  {
+    "pk": 389,
+    "model": "foods.ingredient",
+    "fields": { "name": "Fish 3, frozen",
+    "store": "Trader's Joe",
+    "price": 7.99
+  }},
+  {
+    "pk": 390,
+    "model": "foods.ingredient",
+    "fields": { "name": "(mahi mahi and/or other)",
+    "store": "Trader's Joe",
+    "price": 0.00
+  }},
+  {
+    "pk": 391,
+    "model": "foods.ingredient",
+    "fields": { "name": "Flour, all purpose",
+    "store": "Trader's Joe",
+    "price": 2.99
+  }},
+  {
+    "pk": 392,
+    "model": "foods.ingredient",
+    "fields": { "name": "Flour, self rising",
+    "store": "Trader's Joe",
+    "price": 0.00
+  }},
+  {
+    "pk": 393,
+    "model": "foods.ingredient",
+    "fields": { "name": "French Fries, frozen",
+    "store": "Trader's Joe",
+    "price": 1.99
+  }},
+  {
+    "pk": 394,
+    "model": "foods.ingredient",
+    "fields": { "name": "Fruit 1, frozen (strawberries)",
+    "store": "Trader's Joe",
+    "price": 1.69
+  }},
+  {
+    "pk": 395,
+    "model": "foods.ingredient",
+    "fields": { "name": "Fruit 2, frozen",
+    "store": "Trader's Joe",
+    "price": 3.29
+  }},
+  {
+    "pk": 396,
+    "model": "foods.ingredient",
+    "fields": { "name": "(cherries and/or other)",
+    "store": "Trader's Joe",
+    "price": 0.00
+  }},
+  {
+    "pk": 397,
+    "model": "foods.ingredient",
+    "fields": { "name": "Granola Bars, high fiber",
+    "store": "Trader's Joe",
+    "price": 0.00
+  }},
+  {
+    "pk": 398,
+    "model": "foods.ingredient",
+    "fields": { "name": "Granola Bars, regular",
+    "store": "Trader's Joe",
+    "price": 1.99
+  }},
+  {
+    "pk": 399,
+    "model": "foods.ingredient",
+    "fields": { "name": "Grapes, red",
+    "store": "Trader's Joe",
+    "price": 3.99
+  }},
+  {
+    "pk": 400,
+    "model": "foods.ingredient",
+    "fields": { "name": "Green Beans, canned",
+    "store": "Trader's Joe",
+    "price": 0.89
+  }},
+  {
+    "pk": 401,
+    "model": "foods.ingredient",
+    "fields": { "name": "Ground Beef (chuck, 80/20)",
+    "store": "Trader's Joe",
+    "price": 3.49
+  }},
+  {
+    "pk": 402,
+    "model": "foods.ingredient",
+    "fields": { "name": "Ground Beef (sirloin, 90/10)",
+    "store": "Trader's Joe",
+    "price": 4.49
+  }},
+  {
+    "pk": 403,
+    "model": "foods.ingredient",
+    "fields": { "name": "Ground Beef, frozen",
+    "store": "Trader's Joe",
+    "price": 0.00
+  }},
+  {
+    "pk": 404,
+    "model": "foods.ingredient",
+    "fields": { "name": "Ground Turkey",
+    "store": "Trader's Joe",
+    "price": 4.69
+  }},
+  {
+    "pk": 405,
+    "model": "foods.ingredient",
+    "fields": { "name": "Ground Turkey, frozen",
+    "store": "Trader's Joe",
+    "price": 0.00
+  }},
+  {
+    "pk": 406,
+    "model": "foods.ingredient",
+    "fields": { "name": "Ham, boneless",
+    "store": "Trader's Joe",
+    "price": 0.00
+  }},
+  {
+    "pk": 407,
+    "model": "foods.ingredient",
+    "fields": { "name": "Honey",
+    "store": "Trader's Joe",
+    "price": 4.99
+  }},
+  {
+    "pk": 408,
+    "model": "foods.ingredient",
+    "fields": { "name": "Honey Crunch Oats",
+    "store": "Trader's Joe",
+    "price": 3.49
+  }},
+  {
+    "pk": 409,
+    "model": "foods.ingredient",
+    "fields": { "name": "Hot Dog Buns",
+    "store": "Trader's Joe",
+    "price": 2.49
+  }},
+  {
+    "pk": 410,
+    "model": "foods.ingredient",
+    "fields": { "name": "Hot Dogs, beef",
+    "store": "Trader's Joe",
+    "price": 0.00
+  }},
+  {
+    "pk": 411,
+    "model": "foods.ingredient",
+    "fields": { "name": "Ice Cream, premium",
+    "store": "Trader's Joe",
+    "price": 5.99
+  }},
+  {
+    "pk": 412,
+    "model": "foods.ingredient",
+    "fields": { "name": "Ice Cream, simple",
+    "store": "Trader's Joe",
+    "price": 0.00
+  }},
+  {
+    "pk": 413,
+    "model": "foods.ingredient",
+    "fields": { "name": "Jalopeño Peppers, canned",
+    "store": "Trader's Joe",
+    "price": 0.00
+  }},
+  {
+    "pk": 414,
+    "model": "foods.ingredient",
+    "fields": { "name": "Ketchup",
+    "store": "Trader's Joe",
+    "price": 1.99
+  }},
+  {
+    "pk": 415,
+    "model": "foods.ingredient",
+    "fields": { "name": "Kielbasa",
+    "store": "Trader's Joe",
+    "price": 4.29
+  }},
+  {
+    "pk": 416,
+    "model": "foods.ingredient",
+    "fields": { "name": "Lemons",
+    "store": "Trader's Joe",
+    "price": 1.39
+  }},
+  {
+    "pk": 417,
+    "model": "foods.ingredient",
+    "fields": { "name": "Lettuce, iceberg",
+    "store": "Trader's Joe",
+    "price": 1.29
+  }},
+  {
+    "pk": 418,
+    "model": "foods.ingredient",
+    "fields": { "name": "Mandarin Oranges, canned",
+    "store": "Trader's Joe",
+    "price": 1.19
+  }},
+  {
+    "pk": 419,
+    "model": "foods.ingredient",
+    "fields": { "name": "Margarine/Spread",
+    "store": "Trader's Joe",
+    "price": 3.99
+  }},
+  {
+    "pk": 420,
+    "model": "foods.ingredient",
+    "fields": { "name": "Mayonnaise",
+    "store": "Trader's Joe",
+    "price": 3.99
+  }},
+  {
+    "pk": 421,
+    "model": "foods.ingredient",
+    "fields": { "name": "Milk",
+    "store": "Trader's Joe",
+    "price": 2.99
+  }},
+  {
+    "pk": 422,
+    "model": "foods.ingredient",
+    "fields": { "name": "Milk Chocolate Bar",
+    "store": "Trader's Joe",
+    "price": 1.99
+  }},
+  {
+    "pk": 423,
+    "model": "foods.ingredient",
+    "fields": { "name": "Milk, organic",
+    "store": "Trader's Joe",
+    "price": 3.79
+  }},
+  {
+    "pk": 424,
+    "model": "foods.ingredient",
+    "fields": { "name": "Mushrooms, Button, whole",
+    "store": "Trader's Joe",
+    "price": 1.79
+  }},
+  {
+    "pk": 425,
+    "model": "foods.ingredient",
+    "fields": { "name": "Mushrooms, stems/pieces",
+    "store": "Trader's Joe",
+    "price": 0.00
+  }},
+  {
+    "pk": 426,
+    "model": "foods.ingredient",
+    "fields": { "name": "Mustard, dijon",
+    "store": "Trader's Joe",
+    "price": 1.69
+  }},
+  {
+    "pk": 427,
+    "model": "foods.ingredient",
+    "fields": { "name": "Mustard, yellow",
+    "store": "Trader's Joe",
+    "price": 1.99
+  }},
+  {
+    "pk": 428,
+    "model": "foods.ingredient",
+    "fields": { "name": "Nutella",
+    "store": "Trader's Joe",
+    "price": 0.00
+  }},
+  {
+    "pk": 429,
+    "model": "foods.ingredient",
+    "fields": { "name": "Oat Meal",
+    "store": "Trader's Joe",
+    "price": 2.99
+  }},
+  {
+    "pk": 430,
+    "model": "foods.ingredient",
+    "fields": { "name": "Oil, Canola, 100% pure",
+    "store": "Trader's Joe",
+    "price": 3.79
+  }},
+  {
+    "pk": 431,
+    "model": "foods.ingredient",
+    "fields": { "name": "Oil, Olive, 100% pure",
+    "store": "Trader's Joe",
+    "price": 4.99
+  }},
+  {
+    "pk": 432,
+    "model": "foods.ingredient",
+    "fields": { "name": "Oil, Olive, extra virgin",
+    "store": "Trader's Joe",
+    "price": 5.49
+  }},
+  {
+    "pk": 433,
+    "model": "foods.ingredient",
+    "fields": { "name": "Onions, yellow",
+    "store": "Trader's Joe",
+    "price": 1.99
+  }},
+  {
+    "pk": 434,
+    "model": "foods.ingredient",
+    "fields": { "name": "Orange Juice, not from concentrate",
+    "store": "Trader's Joe",
+    "price": 1.99
+  }},
+  {
+    "pk": 435,
+    "model": "foods.ingredient",
+    "fields": { "name": "Oranges",
+    "store": "Trader's Joe",
+    "price": 3.79
+  }},
+  {
+    "pk": 436,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pancetta or Ham, diced",
+    "store": "Trader's Joe",
+    "price": 2.99
+  }},
+  {
+    "pk": 437,
+    "model": "foods.ingredient",
+    "fields": { "name": "Paper Towles",
+    "store": "Trader's Joe",
+    "price": 0.00
+  }},
+  {
+    "pk": 438,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pasta, Egg Noodles",
+    "store": "Trader's Joe",
+    "price": 0.00
+  }},
+  {
+    "pk": 439,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pasta, Ellbow Maccaroni",
+    "store": "Trader's Joe",
+    "price": 0.00
+  }},
+  {
+    "pk": 440,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pasta, Penne Rigate",
+    "store": "Trader's Joe",
+    "price": 0.99
+  }},
+  {
+    "pk": 441,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pasta, Rotini/Rotelle/Fusilli",
+    "store": "Trader's Joe",
+    "price": 0.99
+  }},
+  {
+    "pk": 442,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pasta, Spaghetti",
+    "store": "Trader's Joe",
+    "price": 0.99
+  }},
+  {
+    "pk": 443,
+    "model": "foods.ingredient",
+    "fields": { "name": "Peanut Butter",
+    "store": "Trader's Joe",
+    "price": 2.29
+  }},
+  {
+    "pk": 444,
+    "model": "foods.ingredient",
+    "fields": { "name": "Peanuts, roasted",
+    "store": "Trader's Joe",
+    "price": 2.69
+  }},
+  {
+    "pk": 445,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pears",
+    "store": "Trader's Joe",
+    "price": 2.99
+  }},
+  {
+    "pk": 446,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pepper, black, ground",
+    "store": "Trader's Joe",
+    "price": 1.99
+  }},
+  {
+    "pk": 447,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pizza Dough",
+    "store": "Trader's Joe",
+    "price": 1.09
+  }},
+  {
+    "pk": 448,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pizza, frozen (premium)",
+    "store": "Trader's Joe",
+    "price": 4.99
+  }},
+  {
+    "pk": 449,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pizza, frozen (simple)",
+    "store": "Trader's Joe",
+    "price": 3.99
+  }},
+  {
+    "pk": 450,
+    "model": "foods.ingredient",
+    "fields": { "name": "Plastic Wrap",
+    "store": "Trader's Joe",
+    "price": 0.00
+  }},
+  {
+    "pk": 451,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pork Tenderloin, small",
+    "store": "Trader's Joe",
+    "price": 4.99
+  }},
+  {
+    "pk": 452,
+    "model": "foods.ingredient",
+    "fields": { "name": "Potatoes, gold (Yukon)",
+    "store": "Trader's Joe",
+    "price": 3.49
+  }},
+  {
+    "pk": 453,
+    "model": "foods.ingredient",
+    "fields": { "name": "Potatoes, red",
+    "store": "Trader's Joe",
+    "price": 4.29
+  }},
+  {
+    "pk": 454,
+    "model": "foods.ingredient",
+    "fields": { "name": "Potatoes, Russet",
+    "store": "Trader's Joe",
+    "price": 3.99
+  }},
+  {
+    "pk": 455,
+    "model": "foods.ingredient",
+    "fields": { "name": "Preserves, strawberry",
+    "store": "Trader's Joe",
+    "price": 2.99
+  }},
+  {
+    "pk": 456,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pretzels",
+    "store": "Trader's Joe",
+    "price": 1.39
+  }},
+  {
+    "pk": 457,
+    "model": "foods.ingredient",
+    "fields": { "name": "Red Cabbage",
+    "store": "Trader's Joe",
+    "price": 0.00
+  }},
+  {
+    "pk": 458,
+    "model": "foods.ingredient",
+    "fields": { "name": "Ribs, Baby Back (pork, unseasoned)",
+    "store": "Trader's Joe",
+    "price": 4.49
+  }},
+  {
+    "pk": 459,
+    "model": "foods.ingredient",
+    "fields": { "name": "Ribs, Spare Back (pork, unseasoned)",
+    "store": "Trader's Joe",
+    "price": 0.00
+  }},
+  {
+    "pk": 460,
+    "model": "foods.ingredient",
+    "fields": { "name": "Rice, instant, white",
+    "store": "Trader's Joe",
+    "price": 0.00
+  }},
+  {
+    "pk": 461,
+    "model": "foods.ingredient",
+    "fields": { "name": "Rice, regular",
+    "store": "Trader's Joe",
+    "price": 3.29
+  }},
+  {
+    "pk": 462,
+    "model": "foods.ingredient",
+    "fields": { "name": "Salad Dressing",
+    "store": "Trader's Joe",
+    "price": 1.99
+  }},
+  {
+    "pk": 463,
+    "model": "foods.ingredient",
+    "fields": { "name": "Salami, sliced",
+    "store": "Trader's Joe",
+    "price": 3.99
+  }},
+  {
+    "pk": 464,
+    "model": "foods.ingredient",
+    "fields": { "name": "Salami, whole (1)",
+    "store": "Trader's Joe",
+    "price": 0.00
+  }},
+  {
+    "pk": 465,
+    "model": "foods.ingredient",
+    "fields": { "name": "Salami, whole (2)",
+    "store": "Trader's Joe",
+    "price": 0.00
+  }},
+  {
+    "pk": 466,
+    "model": "foods.ingredient",
+    "fields": { "name": "Salsa, medium",
+    "store": "Trader's Joe",
+    "price": 1.69
+  }},
+  {
+    "pk": 467,
+    "model": "foods.ingredient",
+    "fields": { "name": "Salt, iodized",
+    "store": "Trader's Joe",
+    "price": 1.99
+  }},
+  {
+    "pk": 468,
+    "model": "foods.ingredient",
+    "fields": { "name": "Soda, bottle",
+    "store": "Trader's Joe",
+    "price": 0.00
+  }},
+  {
+    "pk": 469,
+    "model": "foods.ingredient",
+    "fields": { "name": "Soda, bottle (Coke product)",
+    "store": "Trader's Joe",
+    "price": 0.00
+  }},
+  {
+    "pk": 470,
+    "model": "foods.ingredient",
+    "fields": { "name": "Soda, can",
+    "store": "Trader's Joe",
+    "price": 2.69
+  }},
+  {
+    "pk": 471,
+    "model": "foods.ingredient",
+    "fields": { "name": "Soda, can (Coke product)",
+    "store": "Trader's Joe",
+    "price": 0.00
+  }},
+  {
+    "pk": 472,
+    "model": "foods.ingredient",
+    "fields": { "name": "Soup, Chicken Noodle, condensed",
+    "store": "Trader's Joe",
+    "price": 0.00
+  }},
+  {
+    "pk": 473,
+    "model": "foods.ingredient",
+    "fields": { "name": "Soup, Chicken Noodle, regular",
+    "store": "Trader's Joe",
+    "price": 1.99
+  }},
+  {
+    "pk": 474,
+    "model": "foods.ingredient",
+    "fields": { "name": "Soup, organic",
+    "store": "Trader's Joe",
+    "price": 1.99
+  }},
+  {
+    "pk": 475,
+    "model": "foods.ingredient",
+    "fields": { "name": "Soup, Tomato, condensed",
+    "store": "Trader's Joe",
+    "price": 0.00
+  }},
+  {
+    "pk": 476,
+    "model": "foods.ingredient",
+    "fields": { "name": "Soup, Tomato, regular",
+    "store": "Trader's Joe",
+    "price": 2.49
+  }},
+  {
+    "pk": 477,
+    "model": "foods.ingredient",
+    "fields": { "name": "Sour Cream",
+    "store": "Trader's Joe",
+    "price": 1.79
+  }},
+  {
+    "pk": 478,
+    "model": "foods.ingredient",
+    "fields": { "name": "Spaghetti Sauce",
+    "store": "Trader's Joe",
+    "price": 2.29
+  }},
+  {
+    "pk": 479,
+    "model": "foods.ingredient",
+    "fields": { "name": "Sugar, brown",
+    "store": "Trader's Joe",
+    "price": 3.49
+  }},
+  {
+    "pk": 480,
+    "model": "foods.ingredient",
+    "fields": { "name": "Sugar, powdered",
+    "store": "Trader's Joe",
+    "price": 2.79
+  }},
+  {
+    "pk": 481,
+    "model": "foods.ingredient",
+    "fields": { "name": "Sugar, white",
+    "store": "Trader's Joe",
+    "price": 3.49
+  }},
+  {
+    "pk": 482,
+    "model": "foods.ingredient",
+    "fields": { "name": "Syrup, breakfast",
+    "store": "Trader's Joe",
+    "price": 17.99
+  }},
+  {
+    "pk": 483,
+    "model": "foods.ingredient",
+    "fields": { "name": "Tea, green, bags",
+    "store": "Trader's Joe",
+    "price": 1.99
+  }},
+  {
+    "pk": 484,
+    "model": "foods.ingredient",
+    "fields": { "name": "Tomato Paste",
+    "store": "Trader's Joe",
+    "price": 0.89
+  }},
+  {
+    "pk": 485,
+    "model": "foods.ingredient",
+    "fields": { "name": "Tomato Sauce",
+    "store": "Trader's Joe",
+    "price": 1.49
+  }},
+  {
+    "pk": 486,
+    "model": "foods.ingredient",
+    "fields": { "name": "Tomatoes, slicer",
+    "store": "Trader's Joe",
+    "price": 0.79
+  }},
+  {
+    "pk": 487,
+    "model": "foods.ingredient",
+    "fields": { "name": "Tuna, chunky, in water",
+    "store": "Trader's Joe",
+    "price": 1.49
+  }},
+  {
+    "pk": 488,
+    "model": "foods.ingredient",
+    "fields": { "name": "Tuna, solid, in water",
+    "store": "Trader's Joe",
+    "price": 1.49
+  }},
+  {
+    "pk": 489,
+    "model": "foods.ingredient",
+    "fields": { "name": "Vanilla Extract, pure (not imitation)",
+    "store": "Trader's Joe",
+    "price": 4.99
+  }},
+  {
+    "pk": 490,
+    "model": "foods.ingredient",
+    "fields": { "name": "Veggies 1, frozen (peas)",
+    "store": "Trader's Joe",
+    "price": 1.29
+  }},
+  {
+    "pk": 491,
+    "model": "foods.ingredient",
+    "fields": { "name": "Veggies 2, frozen (other)",
+    "store": "Trader's Joe",
+    "price": 1.49
+  }},
+  {
+    "pk": 492,
+    "model": "foods.ingredient",
+    "fields": { "name": "Waffles, frozen",
+    "store": "Trader's Joe",
+    "price": 1.99
+  }},
+  {
+    "pk": 493,
+    "model": "foods.ingredient",
+    "fields": { "name": "Water, regular/drinking",
+    "store": "Trader's Joe",
+    "price": 0.49
+  }},
+  {
+    "pk": 494,
+    "model": "foods.ingredient",
+    "fields": { "name": "Water, Sparkling/Mineral",
+    "store": "Trader's Joe",
+    "price": 0.79
+  }},
+  {
+    "pk": 495,
+    "model": "foods.ingredient",
+    "fields": { "name": "White Bread/Toast, enriched",
+    "store": "Trader's Joe",
+    "price": 3.49
+  }},
+  {
+    "pk": 496,
+    "model": "foods.ingredient",
+    "fields": { "name": "Wine, table, Cabernet",
+    "store": "Trader's Joe",
+    "price": 2.79
+  }},
+  {
+    "pk": 497,
+    "model": "foods.ingredient",
+    "fields": { "name": "Wine, table, Chardonnay",
+    "store": "Trader's Joe",
+    "price": 2.79
+  }},
+  {
+    "pk": 498,
+    "model": "foods.ingredient",
+    "fields": { "name": "Wine, table, White Zinfandel",
+    "store": "Trader's Joe",
+    "price": 2.79
+  }},
+  {
+    "pk": 499,
+    "model": "foods.ingredient",
+    "fields": { "name": "Yoghurt, Dannon (etc.)",
+    "store": "Trader's Joe",
+    "price": 1.99
+  }},
+  {
+    "pk": 500,
+    "model": "foods.ingredient",
+    "fields": { "name": "Yogurt, Fage, 2%, plain",
+    "store": "Trader's Joe",
+    "price": 1.49
+  }},
+  {
+    "pk": 501,
+    "model": "foods.ingredient",
+    "fields": { "name": "Yogurt, Fage, w/ flavor",
+    "store": "Trader's Joe",
+    "price": 1.49
+  }},
+  {
+    "pk": 502,
+    "model": "foods.ingredient",
+    "fields": { "name": "Yogurt, flavored, cup",
+    "store": "Trader's Joe",
+    "price": 0.79
+  }},
+  {
+    "pk": 503,
+    "model": "foods.ingredient",
+    "fields": { "name": "Yogurt, greek style, plain",
+    "store": "Trader's Joe",
+    "price": 1.99
+  }},
+  {
+    "pk": 504,
+    "model": "foods.ingredient",
+    "fields": { "name": "Yogurt, plain",
+    "store": "Trader's Joe",
+    "price": 2.99
+  }},
+  {
+    "pk": 505,
+    "model": "foods.ingredient",
+    "fields": { "name": "Aluminum Foil",
+    "store": "Publix",
+    "price": 2.45
+  }},
+  {
+    "pk": 506,
+    "model": "foods.ingredient",
+    "fields": { "name": "Apple Juice",
+    "store": "Publix",
+    "price": 2.69
+  }},
+  {
+    "pk": 507,
+    "model": "foods.ingredient",
+    "fields": { "name": "Apple Sauce",
+    "store": "Publix",
+    "price": 2.5
+  }},
+  {
+    "pk": 508,
+    "model": "foods.ingredient",
+    "fields": { "name": "Apples, Gala, bag",
+    "store": "Publix",
+    "price": 4.99
+  }},
+  {
+    "pk": 509,
+    "model": "foods.ingredient",
+    "fields": { "name": "Apples, Red/Golden Delicious (and/or other), bag",
+    "store": "Publix",
+    "price": 3.99
+  }},
+  {
+    "pk": 510,
+    "model": "foods.ingredient",
+    "fields": { "name": "Bacon",
+    "store": "Publix",
+    "price": 4.99
+  }},
+  {
+    "pk": 511,
+    "model": "foods.ingredient",
+    "fields": { "name": "Bagles, plain",
+    "store": "Publix",
+    "price": 2
+  }},
+  {
+    "pk": 512,
+    "model": "foods.ingredient",
+    "fields": { "name": "Baguette Rolls, frozen",
+    "store": "Publix",
+    "price": 3.69
+  }},
+  {
+    "pk": 513,
+    "model": "foods.ingredient",
+    "fields": { "name": "Baguette/French Bread",
+    "store": "Publix",
+    "price": 2.19
+  }},
+  {
+    "pk": 514,
+    "model": "foods.ingredient",
+    "fields": { "name": "Barbeque Sauce",
+    "store": "Publix",
+    "price": 1.99
+  }},
+  {
+    "pk": 515,
+    "model": "foods.ingredient",
+    "fields": { "name": "Beef Stew Meat",
+    "store": "Publix",
+    "price": 4.49
+  }},
+  {
+    "pk": 516,
+    "model": "foods.ingredient",
+    "fields": { "name": "Beer, bottle, pilsener, import",
+    "store": "Publix",
+    "price": 7.99
+  }},
+  {
+    "pk": 517,
+    "model": "foods.ingredient",
+    "fields": { "name": "Beer, cans",
+    "store": "Publix",
+    "price": 19.99
+  }},
+  {
+    "pk": 518,
+    "model": "foods.ingredient",
+    "fields": { "name": "Brats, 4-6 pack",
+    "store": "Publix",
+    "price": 3.99
+  }},
+  {
+    "pk": 519,
+    "model": "foods.ingredient",
+    "fields": { "name": "Bread Crumbs",
+    "store": "Publix",
+    "price": 1.79
+  }},
+  {
+    "pk": 520,
+    "model": "foods.ingredient",
+    "fields": { "name": "Bread, 12-grain/multi-grain",
+    "store": "Publix",
+    "price": 2.59
+  }},
+  {
+    "pk": 521,
+    "model": "foods.ingredient",
+    "fields": { "name": "Breakfast Sausage, frozen",
+    "store": "Publix",
+    "price": 2.19
+  }},
+  {
+    "pk": 522,
+    "model": "foods.ingredient",
+    "fields": { "name": "Butter, real, unsalted/salted",
+    "store": "Publix",
+    "price": 3.15
+  }},
+  {
+    "pk": 523,
+    "model": "foods.ingredient",
+    "fields": { "name": "Carrots, whole",
+    "store": "Publix",
+    "price": 0.99
+  }},
+  {
+    "pk": 524,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cereal, Müsli style",
+    "store": "Publix",
+    "price": 4.29
+  }},
+  {
+    "pk": 525,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheery Pie Filling",
+    "store": "Publix",
+    "price": 3.19
+  }},
+  {
+    "pk": 526,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheese Singles (imitation)",
+    "store": "Publix",
+    "price": 3.19
+  }},
+  {
+    "pk": 527,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheese, block (regular)",
+    "store": "Publix",
+    "price": 3.19
+  }},
+  {
+    "pk": 528,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheese, Boursin",
+    "store": "Publix",
+    "price": 5.99
+  }},
+  {
+    "pk": 529,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheese, Brie 1",
+    "store": "Publix",
+    "price": 8.39
+  }},
+  {
+    "pk": 530,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheese, Brie 2",
+    "store": "Publix",
+    "price": 13.99
+  }},
+  {
+    "pk": 531,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheese, Parmesan, jar",
+    "store": "Publix",
+    "price": 2.15
+  }},
+  {
+    "pk": 532,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheese, shredded, Mexican style",
+    "store": "Publix",
+    "price": 3.19
+  }},
+  {
+    "pk": 533,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheese, shredded, Mozarella",
+    "store": "Publix",
+    "price": 3.19
+  }},
+  {
+    "pk": 534,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheese, sliced, deli",
+    "store": "Publix",
+    "price": 5.29
+  }},
+  {
+    "pk": 535,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheese, sliced, regular",
+    "store": "Publix",
+    "price": 2.79
+  }},
+  {
+    "pk": 536,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheese, wedge, deli",
+    "store": "Publix",
+    "price": 9.39
+  }},
+  {
+    "pk": 537,
+    "model": "foods.ingredient",
+    "fields": { "name": "Chicken Breasts, frozen",
+    "store": "Publix",
+    "price": 6.49
+  }},
+  {
+    "pk": 538,
+    "model": "foods.ingredient",
+    "fields": { "name": "Chicken Nuggets, frozen",
+    "store": "Publix",
+    "price": 5.99
+  }},
+  {
+    "pk": 539,
+    "model": "foods.ingredient",
+    "fields": { "name": "Chicken Tenderloins, frozen",
+    "store": "Publix",
+    "price": 6.99
+  }},
+  {
+    "pk": 540,
+    "model": "foods.ingredient",
+    "fields": { "name": "Chips, potato chips",
+    "store": "Publix",
+    "price": 2.59
+  }},
+  {
+    "pk": 541,
+    "model": "foods.ingredient",
+    "fields": { "name": "Chocolate Chip Cookie Dough",
+    "store": "Publix",
+    "price": 2.59
+  }},
+  {
+    "pk": 542,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cocoa Rice Cereal",
+    "store": "Publix",
+    "price": 2.75
+  }},
+  {
+    "pk": 543,
+    "model": "foods.ingredient",
+    "fields": { "name": "Coconut Milk",
+    "store": "Publix",
+    "price": 1.49
+  }},
+  {
+    "pk": 544,
+    "model": "foods.ingredient",
+    "fields": { "name": "Coffee",
+    "store": "Publix",
+    "price": 5.99
+  }},
+  {
+    "pk": 545,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cold Cuts, ham or chicken",
+    "store": "Publix",
+    "price": 4.99
+  }},
+  {
+    "pk": 546,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cold Cuts, turkey variety",
+    "store": "Publix",
+    "price": 3.29
+  }},
+  {
+    "pk": 547,
+    "model": "foods.ingredient",
+    "fields": { "name": "Corn Flakes, regular",
+    "store": "Publix",
+    "price": 2.29
+  }},
+  {
+    "pk": 548,
+    "model": "foods.ingredient",
+    "fields": { "name": "Corn Flakes, sugar frosted",
+    "store": "Publix",
+    "price": 2.89
+  }},
+  {
+    "pk": 549,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cottage Cheese",
+    "store": "Publix",
+    "price": 2.55
+  }},
+  {
+    "pk": 550,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cream Cheese",
+    "store": "Publix",
+    "price": 0.99
+  }},
+  {
+    "pk": 551,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cream, heavy whipping",
+    "store": "Publix",
+    "price": 1.89
+  }},
+  {
+    "pk": 552,
+    "model": "foods.ingredient",
+    "fields": { "name": "Croissants",
+    "store": "Publix",
+    "price": 2.39
+  }},
+  {
+    "pk": 553,
+    "model": "foods.ingredient",
+    "fields": { "name": "Eggs, cage free",
+    "store": "Publix",
+    "price": 3.39
+  }},
+  {
+    "pk": 554,
+    "model": "foods.ingredient",
+    "fields": { "name": "Eggs, regular",
+    "store": "Publix",
+    "price": 1.99
+  }},
+  {
+    "pk": 555,
+    "model": "foods.ingredient",
+    "fields": { "name": "Fish 1, frozen (flounder)",
+    "store": "Publix",
+    "price": 7.99
+  }},
+  {
+    "pk": 556,
+    "model": "foods.ingredient",
+    "fields": { "name": "Fish 2, frozen (tilapia)",
+    "store": "Publix",
+    "price": 8.99
+  }},
+  {
+    "pk": 557,
+    "model": "foods.ingredient",
+    "fields": { "name": "Fish 3, frozen",
+    "store": "Publix",
+    "price": 7.99
+  }},
+  {
+    "pk": 558,
+    "model": "foods.ingredient",
+    "fields": { "name": "(mahi mahi and/or other)",
+    "store": "Publix",
+    "price": 0.00
+  }},
+  {
+    "pk": 559,
+    "model": "foods.ingredient",
+    "fields": { "name": "Flour, all purpose",
+    "store": "Publix",
+    "price": 2.29
+  }},
+  {
+    "pk": 560,
+    "model": "foods.ingredient",
+    "fields": { "name": "Flour, self rising",
+    "store": "Publix",
+    "price": 2.29
+  }},
+  {
+    "pk": 561,
+    "model": "foods.ingredient",
+    "fields": { "name": "French Fries, frozen",
+    "store": "Publix",
+    "price": 2.99
+  }},
+  {
+    "pk": 562,
+    "model": "foods.ingredient",
+    "fields": { "name": "Fruit 1, frozen (strawberries)",
+    "store": "Publix",
+    "price": 2.39
+  }},
+  {
+    "pk": 563,
+    "model": "foods.ingredient",
+    "fields": { "name": "Fruit 2, frozen",
+    "store": "Publix",
+    "price": 3.29
+  }},
+  {
+    "pk": 564,
+    "model": "foods.ingredient",
+    "fields": { "name": "(cherries and/or other)",
+    "store": "Publix",
+    "price": 0.00
+  }},
+  {
+    "pk": 565,
+    "model": "foods.ingredient",
+    "fields": { "name": "Granola Bars, high fiber",
+    "store": "Publix",
+    "price": 3.19
+  }},
+  {
+    "pk": 566,
+    "model": "foods.ingredient",
+    "fields": { "name": "Granola Bars, regular",
+    "store": "Publix",
+    "price": 2.59
+  }},
+  {
+    "pk": 567,
+    "model": "foods.ingredient",
+    "fields": { "name": "Grapes, red",
+    "store": "Publix",
+    "price": 1.49
+  }},
+  {
+    "pk": 568,
+    "model": "foods.ingredient",
+    "fields": { "name": "Green Beans, canned",
+    "store": "Publix",
+    "price": 0.79
+  }},
+  {
+    "pk": 569,
+    "model": "foods.ingredient",
+    "fields": { "name": "Ground Beef (chuck, 80/20)",
+    "store": "Publix",
+    "price": 3.99
+  }},
+  {
+    "pk": 570,
+    "model": "foods.ingredient",
+    "fields": { "name": "Ground Beef (sirloin, 90/10)",
+    "store": "Publix",
+    "price": 4.99
+  }},
+  {
+    "pk": 571,
+    "model": "foods.ingredient",
+    "fields": { "name": "Ground Beef, frozen",
+    "store": "Publix",
+    "price": 0.00
+  }},
+  {
+    "pk": 572,
+    "model": "foods.ingredient",
+    "fields": { "name": "Ground Turkey",
+    "store": "Publix",
+    "price": 4.39
+  }},
+  {
+    "pk": 573,
+    "model": "foods.ingredient",
+    "fields": { "name": "Ground Turkey, frozen",
+    "store": "Publix",
+    "price": 0.00
+  }},
+  {
+    "pk": 574,
+    "model": "foods.ingredient",
+    "fields": { "name": "Ham, boneless",
+    "store": "Publix",
+    "price": 3.99
+  }},
+  {
+    "pk": 575,
+    "model": "foods.ingredient",
+    "fields": { "name": "Honey",
+    "store": "Publix",
+    "price": 9.49
+  }},
+  {
+    "pk": 576,
+    "model": "foods.ingredient",
+    "fields": { "name": "Honey Crunch Oats",
+    "store": "Publix",
+    "price": 2.85
+  }},
+  {
+    "pk": 577,
+    "model": "foods.ingredient",
+    "fields": { "name": "Hot Dog Buns",
+    "store": "Publix",
+    "price": 0.99
+  }},
+  {
+    "pk": 578,
+    "model": "foods.ingredient",
+    "fields": { "name": "Hot Dogs, beef",
+    "store": "Publix",
+    "price": 3.59
+  }},
+  {
+    "pk": 579,
+    "model": "foods.ingredient",
+    "fields": { "name": "Ice Cream, premium",
+    "store": "Publix",
+    "price": 4.59
+  }},
+  {
+    "pk": 580,
+    "model": "foods.ingredient",
+    "fields": { "name": "Ice Cream, simple",
+    "store": "Publix",
+    "price": 2.99
+  }},
+  {
+    "pk": 581,
+    "model": "foods.ingredient",
+    "fields": { "name": "Jalopeño Peppers, canned",
+    "store": "Publix",
+    "price": 2.49
+  }},
+  {
+    "pk": 582,
+    "model": "foods.ingredient",
+    "fields": { "name": "Ketchup",
+    "store": "Publix",
+    "price": 1.99
+  }},
+  {
+    "pk": 583,
+    "model": "foods.ingredient",
+    "fields": { "name": "Kielbasa",
+    "store": "Publix",
+    "price": 3.49
+  }},
+  {
+    "pk": 584,
+    "model": "foods.ingredient",
+    "fields": { "name": "Lemons",
+    "store": "Publix",
+    "price": 1.99
+  }},
+  {
+    "pk": 585,
+    "model": "foods.ingredient",
+    "fields": { "name": "Lettuce, iceberg",
+    "store": "Publix",
+    "price": 1.69
+  }},
+  {
+    "pk": 586,
+    "model": "foods.ingredient",
+    "fields": { "name": "Mandarin Oranges, canned",
+    "store": "Publix",
+    "price": 0.97
+  }},
+  {
+    "pk": 587,
+    "model": "foods.ingredient",
+    "fields": { "name": "Margarine/Spread",
+    "store": "Publix",
+    "price": 2.47
+  }},
+  {
+    "pk": 588,
+    "model": "foods.ingredient",
+    "fields": { "name": "Mayonnaise",
+    "store": "Publix",
+    "price": 2.79
+  }},
+  {
+    "pk": 589,
+    "model": "foods.ingredient",
+    "fields": { "name": "Milk",
+    "store": "Publix",
+    "price": 3.39
+  }},
+  {
+    "pk": 590,
+    "model": "foods.ingredient",
+    "fields": { "name": "Milk Chocolate Bar",
+    "store": "Publix",
+    "price": 2.59
+  }},
+  {
+    "pk": 591,
+    "model": "foods.ingredient",
+    "fields": { "name": "Milk, organic",
+    "store": "Publix",
+    "price": 3.89
+  }},
+  {
+    "pk": 592,
+    "model": "foods.ingredient",
+    "fields": { "name": "Mushrooms, Button, whole",
+    "store": "Publix",
+    "price": 2.5
+  }},
+  {
+    "pk": 593,
+    "model": "foods.ingredient",
+    "fields": { "name": "Mushrooms, stems/pieces",
+    "store": "Publix",
+    "price": 1.59
+  }},
+  {
+    "pk": 594,
+    "model": "foods.ingredient",
+    "fields": { "name": "Mustard, dijon",
+    "store": "Publix",
+    "price": 1.69
+  }},
+  {
+    "pk": 595,
+    "model": "foods.ingredient",
+    "fields": { "name": "Mustard, yellow",
+    "store": "Publix",
+    "price": 1.15
+  }},
+  {
+    "pk": 596,
+    "model": "foods.ingredient",
+    "fields": { "name": "Nutella",
+    "store": "Publix",
+    "price": 3.99
+  }},
+  {
+    "pk": 597,
+    "model": "foods.ingredient",
+    "fields": { "name": "Oat Meal",
+    "store": "Publix",
+    "price": 1.5
+  }},
+  {
+    "pk": 598,
+    "model": "foods.ingredient",
+    "fields": { "name": "Oil, Canola, 100% pure",
+    "store": "Publix",
+    "price": 3.85
+  }},
+  {
+    "pk": 599,
+    "model": "foods.ingredient",
+    "fields": { "name": "Oil, Olive, 100% pure",
+    "store": "Publix",
+    "price": 9.39
+  }},
+  {
+    "pk": 600,
+    "model": "foods.ingredient",
+    "fields": { "name": "Oil, Olive, extra virgin",
+    "store": "Publix",
+    "price": 9.99
+  }},
+  {
+    "pk": 601,
+    "model": "foods.ingredient",
+    "fields": { "name": "Onions, yellow",
+    "store": "Publix",
+    "price": 2.99
+  }},
+  {
+    "pk": 602,
+    "model": "foods.ingredient",
+    "fields": { "name": "Orange Juice, not from concentrate",
+    "store": "Publix",
+    "price": 2.99
+  }},
+  {
+    "pk": 603,
+    "model": "foods.ingredient",
+    "fields": { "name": "Oranges",
+    "store": "Publix",
+    "price": 3.49
+  }},
+  {
+    "pk": 604,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pancetta or Ham, diced",
+    "store": "Publix",
+    "price": 0.00
+  }},
+  {
+    "pk": 605,
+    "model": "foods.ingredient",
+    "fields": { "name": "Paper Towles",
+    "store": "Publix",
+    "price": 1.33
+  }},
+  {
+    "pk": 606,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pasta, Egg Noodles",
+    "store": "Publix",
+    "price": 1.79
+  }},
+  {
+    "pk": 607,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pasta, Ellbow Maccaroni",
+    "store": "Publix",
+    "price": 0.99
+  }},
+  {
+    "pk": 608,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pasta, Penne Rigate",
+    "store": "Publix",
+    "price": 0.99
+  }},
+  {
+    "pk": 609,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pasta, Rotini/Rotelle/Fusilli",
+    "store": "Publix",
+    "price": 0.99
+  }},
+  {
+    "pk": 610,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pasta, Spaghetti",
+    "store": "Publix",
+    "price": 0.99
+  }},
+  {
+    "pk": 611,
+    "model": "foods.ingredient",
+    "fields": { "name": "Peanut Butter",
+    "store": "Publix",
+    "price": 3.29
+  }},
+  {
+    "pk": 612,
+    "model": "foods.ingredient",
+    "fields": { "name": "Peanuts, roasted",
+    "store": "Publix",
+    "price": 2.99
+  }},
+  {
+    "pk": 613,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pears",
+    "store": "Publix",
+    "price": 0.99
+  }},
+  {
+    "pk": 614,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pepper, black, ground",
+    "store": "Publix",
+    "price": 2.49
+  }},
+  {
+    "pk": 615,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pizza Dough",
+    "store": "Publix",
+    "price": 2.79
+  }},
+  {
+    "pk": 616,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pizza, frozen (premium)",
+    "store": "Publix",
+    "price": 5.89
+  }},
+  {
+    "pk": 617,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pizza, frozen (simple)",
+    "store": "Publix",
+    "price": 3.99
+  }},
+  {
+    "pk": 618,
+    "model": "foods.ingredient",
+    "fields": { "name": "Plastic Wrap",
+    "store": "Publix",
+    "price": 2.69
+  }},
+  {
+    "pk": 619,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pork Tenderloin, small",
+    "store": "Publix",
+    "price": 6.49
+  }},
+  {
+    "pk": 620,
+    "model": "foods.ingredient",
+    "fields": { "name": "Potatoes, gold (Yukon)",
+    "store": "Publix",
+    "price": 4.99
+  }},
+  {
+    "pk": 621,
+    "model": "foods.ingredient",
+    "fields": { "name": "Potatoes, red",
+    "store": "Publix",
+    "price": 4.69
+  }},
+  {
+    "pk": 622,
+    "model": "foods.ingredient",
+    "fields": { "name": "Potatoes, Russet",
+    "store": "Publix",
+    "price": 2.99
+  }},
+  {
+    "pk": 623,
+    "model": "foods.ingredient",
+    "fields": { "name": "Preserves, strawberry",
+    "store": "Publix",
+    "price": 2.29
+  }},
+  {
+    "pk": 624,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pretzels",
+    "store": "Publix",
+    "price": 1.99
+  }},
+  {
+    "pk": 625,
+    "model": "foods.ingredient",
+    "fields": { "name": "Red Cabbage",
+    "store": "Publix",
+    "price": 1.69
+  }},
+  {
+    "pk": 626,
+    "model": "foods.ingredient",
+    "fields": { "name": "Ribs, Baby Back (pork, unseasoned)",
+    "store": "Publix",
+    "price": 0.00
+  }},
+  {
+    "pk": 627,
+    "model": "foods.ingredient",
+    "fields": { "name": "Ribs, Spare Back (pork, unseasoned)",
+    "store": "Publix",
+    "price": 0.00
+  }},
+  {
+    "pk": 628,
+    "model": "foods.ingredient",
+    "fields": { "name": "Rice, instant, white",
+    "store": "Publix",
+    "price": 2.79
+  }},
+  {
+    "pk": 629,
+    "model": "foods.ingredient",
+    "fields": { "name": "Rice, regular",
+    "store": "Publix",
+    "price": 2.79
+  }},
+  {
+    "pk": 630,
+    "model": "foods.ingredient",
+    "fields": { "name": "Salad Dressing",
+    "store": "Publix",
+    "price": 1.67
+  }},
+  {
+    "pk": 631,
+    "model": "foods.ingredient",
+    "fields": { "name": "Salami, sliced",
+    "store": "Publix",
+    "price": 5.39
+  }},
+  {
+    "pk": 632,
+    "model": "foods.ingredient",
+    "fields": { "name": "Salami, whole (1)",
+    "store": "Publix",
+    "price": 5.99
+  }},
+  {
+    "pk": 633,
+    "model": "foods.ingredient",
+    "fields": { "name": "Salami, whole (2)",
+    "store": "Publix",
+    "price": 7.89
+  }},
+  {
+    "pk": 634,
+    "model": "foods.ingredient",
+    "fields": { "name": "Salsa, medium",
+    "store": "Publix",
+    "price": 1.87
+  }},
+  {
+    "pk": 635,
+    "model": "foods.ingredient",
+    "fields": { "name": "Salt, iodized",
+    "store": "Publix",
+    "price": 0.38
+  }},
+  {
+    "pk": 636,
+    "model": "foods.ingredient",
+    "fields": { "name": "Soda, bottle",
+    "store": "Publix",
+    "price": 0.89
+  }},
+  {
+    "pk": 637,
+    "model": "foods.ingredient",
+    "fields": { "name": "Soda, bottle (Coke product)",
+    "store": "Publix",
+    "price": 1.89
+  }},
+  {
+    "pk": 638,
+    "model": "foods.ingredient",
+    "fields": { "name": "Soda, can",
+    "store": "Publix",
+    "price": 2.99
+  }},
+  {
+    "pk": 639,
+    "model": "foods.ingredient",
+    "fields": { "name": "Soda, can (Coke product)",
+    "store": "Publix",
+    "price": 4.99
+  }},
+  {
+    "pk": 640,
+    "model": "foods.ingredient",
+    "fields": { "name": "Soup, Chicken Noodle, condensed",
+    "store": "Publix",
+    "price": 0.59
+  }},
+  {
+    "pk": 641,
+    "model": "foods.ingredient",
+    "fields": { "name": "Soup, Chicken Noodle, regular",
+    "store": "Publix",
+    "price": 1.99
+  }},
+  {
+    "pk": 642,
+    "model": "foods.ingredient",
+    "fields": { "name": "Soup, organic",
+    "store": "Publix",
+    "price": 2.19
+  }},
+  {
+    "pk": 643,
+    "model": "foods.ingredient",
+    "fields": { "name": "Soup, Tomato, condensed",
+    "store": "Publix",
+    "price": 0.59
+  }},
+  {
+    "pk": 644,
+    "model": "foods.ingredient",
+    "fields": { "name": "Soup, Tomato, regular",
+    "store": "Publix",
+    "price": 2.29
+  }},
+  {
+    "pk": 645,
+    "model": "foods.ingredient",
+    "fields": { "name": "Sour Cream",
+    "store": "Publix",
+    "price": 2.59
+  }},
+  {
+    "pk": 646,
+    "model": "foods.ingredient",
+    "fields": { "name": "Spaghetti Sauce",
+    "store": "Publix",
+    "price": 1.35
+  }},
+  {
+    "pk": 647,
+    "model": "foods.ingredient",
+    "fields": { "name": "Sugar, brown",
+    "store": "Publix",
+    "price": 1.09
+  }},
+  {
+    "pk": 648,
+    "model": "foods.ingredient",
+    "fields": { "name": "Sugar, powdered",
+    "store": "Publix",
+    "price": 1.9
+  }},
+  {
+    "pk": 649,
+    "model": "foods.ingredient",
+    "fields": { "name": "Sugar, white",
+    "store": "Publix",
+    "price": 3.49
+  }},
+  {
+    "pk": 650,
+    "model": "foods.ingredient",
+    "fields": { "name": "Syrup, breakfast",
+    "store": "Publix",
+    "price": 2.59
+  }},
+  {
+    "pk": 651,
+    "model": "foods.ingredient",
+    "fields": { "name": "Tea, green, bags",
+    "store": "Publix",
+    "price": 3.39
+  }},
+  {
+    "pk": 652,
+    "model": "foods.ingredient",
+    "fields": { "name": "Tomato Paste",
+    "store": "Publix",
+    "price": 0.6
+  }},
+  {
+    "pk": 653,
+    "model": "foods.ingredient",
+    "fields": { "name": "Tomato Sauce",
+    "store": "Publix",
+    "price": 0.65
+  }},
+  {
+    "pk": 654,
+    "model": "foods.ingredient",
+    "fields": { "name": "Tomatoes, slicer",
+    "store": "Publix",
+    "price": 1.69
+  }},
+  {
+    "pk": 655,
+    "model": "foods.ingredient",
+    "fields": { "name": "Tuna, chunky, in water",
+    "store": "Publix",
+    "price": 1.39
+  }},
+  {
+    "pk": 656,
+    "model": "foods.ingredient",
+    "fields": { "name": "Tuna, solid, in water",
+    "store": "Publix",
+    "price": 1.77
+  }},
+  {
+    "pk": 657,
+    "model": "foods.ingredient",
+    "fields": { "name": "Vanilla Extract, pure (not imitation)",
+    "store": "Publix",
+    "price": 5.49
+  }},
+  {
+    "pk": 658,
+    "model": "foods.ingredient",
+    "fields": { "name": "Veggies 1, frozen (peas)",
+    "store": "Publix",
+    "price": 1.59
+  }},
+  {
+    "pk": 659,
+    "model": "foods.ingredient",
+    "fields": { "name": "Veggies 2, frozen (other)",
+    "store": "Publix",
+    "price": 1.49
+  }},
+  {
+    "pk": 660,
+    "model": "foods.ingredient",
+    "fields": { "name": "Waffles, frozen",
+    "store": "Publix",
+    "price": 2.19
+  }},
+  {
+    "pk": 661,
+    "model": "foods.ingredient",
+    "fields": { "name": "Water, regular/drinking",
+    "store": "Publix",
+    "price": 0.67
+  }},
+  {
+    "pk": 662,
+    "model": "foods.ingredient",
+    "fields": { "name": "Water, Sparkling/Mineral",
+    "store": "Publix",
+    "price": 1.5
+  }},
+  {
+    "pk": 663,
+    "model": "foods.ingredient",
+    "fields": { "name": "White Bread/Toast, enriched",
+    "store": "Publix",
+    "price": 0.99
+  }},
+  {
+    "pk": 664,
+    "model": "foods.ingredient",
+    "fields": { "name": "Wine, table, Cabernet",
+    "store": "Publix",
+    "price": 5.99
+  }},
+  {
+    "pk": 665,
+    "model": "foods.ingredient",
+    "fields": { "name": "Wine, table, Chardonnay",
+    "store": "Publix",
+    "price": 6.49
+  }},
+  {
+    "pk": 666,
+    "model": "foods.ingredient",
+    "fields": { "name": "Wine, table, White Zinfandel",
+    "store": "Publix",
+    "price": 5.99
+  }},
+  {
+    "pk": 667,
+    "model": "foods.ingredient",
+    "fields": { "name": "Yoghurt, Dannon (etc.)",
+    "store": "Publix",
+    "price": 2.19
+  }},
+  {
+    "pk": 668,
+    "model": "foods.ingredient",
+    "fields": { "name": "Yogurt, Fage, 2%, plain",
+    "store": "Publix",
+    "price": 1.5
+  }},
+  {
+    "pk": 669,
+    "model": "foods.ingredient",
+    "fields": { "name": "Yogurt, Fage, w/ flavor",
+    "store": "Publix",
+    "price": 1.5
+  }},
+  {
+    "pk": 670,
+    "model": "foods.ingredient",
+    "fields": { "name": "Yogurt, flavored, cup",
+    "store": "Publix",
+    "price": 0.5
+  }},
+  {
+    "pk": 671,
+    "model": "foods.ingredient",
+    "fields": { "name": "Yogurt, greek style, plain",
+    "store": "Publix",
+    "price": 3.99
+  }},
+  {
+    "pk": 672,
+    "model": "foods.ingredient",
+    "fields": { "name": "Yogurt, plain",
+    "store": "Publix",
+    "price": 2.09
+  }},
+  {
+    "pk": 673,
+    "model": "foods.ingredient",
+    "fields": { "name": "Aluminum Foil",
+    "store": "Walmart",
+    "price": 2.97
+  }},
+  {
+    "pk": 674,
+    "model": "foods.ingredient",
+    "fields": { "name": "Apple Juice",
+    "store": "Walmart",
+    "price": 2.68
+  }},
+  {
+    "pk": 675,
+    "model": "foods.ingredient",
+    "fields": { "name": "Apple Sauce",
+    "store": "Walmart",
+    "price": 1.98
+  }},
+  {
+    "pk": 676,
+    "model": "foods.ingredient",
+    "fields": { "name": "Apples, Gala, bag",
+    "store": "Walmart",
+    "price": 3.57
+  }},
+  {
+    "pk": 677,
+    "model": "foods.ingredient",
+    "fields": { "name": "Apples, Red/Golden Delicious (and/or other), bag",
+    "store": "Walmart",
+    "price": 5.57
+  }},
+  {
+    "pk": 678,
+    "model": "foods.ingredient",
+    "fields": { "name": "Bacon",
+    "store": "Walmart",
+    "price": 3.5
+  }},
+  {
+    "pk": 679,
+    "model": "foods.ingredient",
+    "fields": { "name": "Bagles, plain",
+    "store": "Walmart",
+    "price": 2.48
+  }},
+  {
+    "pk": 680,
+    "model": "foods.ingredient",
+    "fields": { "name": "Baguette Rolls, frozen",
+    "store": "Walmart",
+    "price": 0.00
+  }},
+  {
+    "pk": 681,
+    "model": "foods.ingredient",
+    "fields": { "name": "Baguette/French Bread",
+    "store": "Walmart",
+    "price": 1.6
+  }},
+  {
+    "pk": 682,
+    "model": "foods.ingredient",
+    "fields": { "name": "Barbeque Sauce",
+    "store": "Walmart",
+    "price": 1.46
+  }},
+  {
+    "pk": 683,
+    "model": "foods.ingredient",
+    "fields": { "name": "Beef Stew Meat",
+    "store": "Walmart",
+    "price": 4.48
+  }},
+  {
+    "pk": 684,
+    "model": "foods.ingredient",
+    "fields": { "name": "Beer, bottle, pilsener, import",
+    "store": "Walmart",
+    "price": 8.47
+  }},
+  {
+    "pk": 685,
+    "model": "foods.ingredient",
+    "fields": { "name": "Beer, cans",
+    "store": "Walmart",
+    "price": 19.97
+  }},
+  {
+    "pk": 686,
+    "model": "foods.ingredient",
+    "fields": { "name": "Brats, 4-6 pack",
+    "store": "Walmart",
+    "price": 2.78
+  }},
+  {
+    "pk": 687,
+    "model": "foods.ingredient",
+    "fields": { "name": "Bread Crumbs",
+    "store": "Walmart",
+    "price": 1.08
+  }},
+  {
+    "pk": 688,
+    "model": "foods.ingredient",
+    "fields": { "name": "Bread, 12-grain/multi-grain",
+    "store": "Walmart",
+    "price": 2.98
+  }},
+  {
+    "pk": 689,
+    "model": "foods.ingredient",
+    "fields": { "name": "Breakfast Sausage, frozen",
+    "store": "Walmart",
+    "price": 1.14
+  }},
+  {
+    "pk": 690,
+    "model": "foods.ingredient",
+    "fields": { "name": "Butter, real, unsalted/salted",
+    "store": "Walmart",
+    "price": 2.68
+  }},
+  {
+    "pk": 691,
+    "model": "foods.ingredient",
+    "fields": { "name": "Carrots, whole",
+    "store": "Walmart",
+    "price": 1.48
+  }},
+  {
+    "pk": 692,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cereal, Müsli style",
+    "store": "Walmart",
+    "price": 0.00
+  }},
+  {
+    "pk": 693,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheery Pie Filling",
+    "store": "Walmart",
+    "price": 2.28
+  }},
+  {
+    "pk": 694,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheese Singles (imitation)",
+    "store": "Walmart",
+    "price": 1.18
+  }},
+  {
+    "pk": 695,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheese, block (regular)",
+    "store": "Walmart",
+    "price": 2.58
+  }},
+  {
+    "pk": 696,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheese, Boursin",
+    "store": "Walmart",
+    "price": 2.98
+  }},
+  {
+    "pk": 697,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheese, Brie 1",
+    "store": "Walmart",
+    "price": 4.48
+  }},
+  {
+    "pk": 698,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheese, Brie 2",
+    "store": "Walmart",
+    "price": 15.98
+  }},
+  {
+    "pk": 699,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheese, Parmesan, jar",
+    "store": "Walmart",
+    "price": 0.00
+  }},
+  {
+    "pk": 700,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheese, shredded, Mexican style",
+    "store": "Walmart",
+    "price": 8.68
+  }},
+  {
+    "pk": 701,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheese, shredded, Mozarella",
+    "store": "Walmart",
+    "price": 2.24
+  }},
+  {
+    "pk": 702,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheese, sliced, deli",
+    "store": "Walmart",
+    "price": 3.98
+  }},
+  {
+    "pk": 703,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheese, sliced, regular",
+    "store": "Walmart",
+    "price": 2.28
+  }},
+  {
+    "pk": 704,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cheese, wedge, deli",
+    "store": "Walmart",
+    "price": 6.98
+  }},
+  {
+    "pk": 705,
+    "model": "foods.ingredient",
+    "fields": { "name": "Chicken Breasts, frozen",
+    "store": "Walmart",
+    "price": 6.98
+  }},
+  {
+    "pk": 706,
+    "model": "foods.ingredient",
+    "fields": { "name": "Chicken Nuggets, frozen",
+    "store": "Walmart",
+    "price": 4.47
+  }},
+  {
+    "pk": 707,
+    "model": "foods.ingredient",
+    "fields": { "name": "Chicken Tenderloins, frozen",
+    "store": "Walmart",
+    "price": 6.98
+  }},
+  {
+    "pk": 708,
+    "model": "foods.ingredient",
+    "fields": { "name": "Chips, potato chips",
+    "store": "Walmart",
+    "price": 2.68
+  }},
+  {
+    "pk": 709,
+    "model": "foods.ingredient",
+    "fields": { "name": "Chocolate Chip Cookie Dough",
+    "store": "Walmart",
+    "price": 2.18
+  }},
+  {
+    "pk": 710,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cocoa Rice Cereal",
+    "store": "Walmart",
+    "price": 2
+  }},
+  {
+    "pk": 711,
+    "model": "foods.ingredient",
+    "fields": { "name": "Coconut Milk",
+    "store": "Walmart",
+    "price": 1.58
+  }},
+  {
+    "pk": 712,
+    "model": "foods.ingredient",
+    "fields": { "name": "Coffee",
+    "store": "Walmart",
+    "price": 4.98
+  }},
+  {
+    "pk": 713,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cold Cuts, ham or chicken",
+    "store": "Walmart",
+    "price": 3.98
+  }},
+  {
+    "pk": 714,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cold Cuts, turkey variety",
+    "store": "Walmart",
+    "price": 0.00
+  }},
+  {
+    "pk": 715,
+    "model": "foods.ingredient",
+    "fields": { "name": "Corn Flakes, regular",
+    "store": "Walmart",
+    "price": 1.88
+  }},
+  {
+    "pk": 716,
+    "model": "foods.ingredient",
+    "fields": { "name": "Corn Flakes, sugar frosted",
+    "store": "Walmart",
+    "price": 2.48
+  }},
+  {
+    "pk": 717,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cottage Cheese",
+    "store": "Walmart",
+    "price": 2.78
+  }},
+  {
+    "pk": 718,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cream Cheese",
+    "store": "Walmart",
+    "price": 1.98
+  }},
+  {
+    "pk": 719,
+    "model": "foods.ingredient",
+    "fields": { "name": "Cream, heavy whipping",
+    "store": "Walmart",
+    "price": 2.18
+  }},
+  {
+    "pk": 720,
+    "model": "foods.ingredient",
+    "fields": { "name": "Croissants",
+    "store": "Walmart",
+    "price": 3
+  }},
+  {
+    "pk": 721,
+    "model": "foods.ingredient",
+    "fields": { "name": "Eggs, cage free",
+    "store": "Walmart",
+    "price": 3.18
+  }},
+  {
+    "pk": 722,
+    "model": "foods.ingredient",
+    "fields": { "name": "Eggs, regular",
+    "store": "Walmart",
+    "price": 1.88
+  }},
+  {
+    "pk": 723,
+    "model": "foods.ingredient",
+    "fields": { "name": "Fish 1, frozen (flounder)",
+    "store": "Walmart",
+    "price": 5.27
+  }},
+  {
+    "pk": 724,
+    "model": "foods.ingredient",
+    "fields": { "name": "Fish 2, frozen (tilapia)",
+    "store": "Walmart",
+    "price": 4.48
+  }},
+  {
+    "pk": 725,
+    "model": "foods.ingredient",
+    "fields": { "name": "Fish 3, frozen",
+    "store": "Walmart",
+    "price": 4.94
+  }},
+  {
+    "pk": 726,
+    "model": "foods.ingredient",
+    "fields": { "name": "(mahi mahi and/or other)",
+    "store": "Walmart",
+    "price": 0.00
+  }},
+  {
+    "pk": 727,
+    "model": "foods.ingredient",
+    "fields": { "name": "Flour, all purpose",
+    "store": "Walmart",
+    "price": 1.96
+  }},
+  {
+    "pk": 728,
+    "model": "foods.ingredient",
+    "fields": { "name": "Flour, self rising",
+    "store": "Walmart",
+    "price": 2.48
+  }},
+  {
+    "pk": 729,
+    "model": "foods.ingredient",
+    "fields": { "name": "French Fries, frozen",
+    "store": "Walmart",
+    "price": 1.97
+  }},
+  {
+    "pk": 730,
+    "model": "foods.ingredient",
+    "fields": { "name": "Fruit 1, frozen (strawberries)",
+    "store": "Walmart",
+    "price": 2.33
+  }},
+  {
+    "pk": 731,
+    "model": "foods.ingredient",
+    "fields": { "name": "Fruit 2, frozen",
+    "store": "Walmart",
+    "price": 3.23
+  }},
+  {
+    "pk": 732,
+    "model": "foods.ingredient",
+    "fields": { "name": "(cherries and/or other)",
+    "store": "Walmart",
+    "price": 0.00
+  }},
+  {
+    "pk": 733,
+    "model": "foods.ingredient",
+    "fields": { "name": "Granola Bars, high fiber",
+    "store": "Walmart",
+    "price": 2.98
+  }},
+  {
+    "pk": 734,
+    "model": "foods.ingredient",
+    "fields": { "name": "Granola Bars, regular",
+    "store": "Walmart",
+    "price": 2.18
+  }},
+  {
+    "pk": 735,
+    "model": "foods.ingredient",
+    "fields": { "name": "Grapes, red",
+    "store": "Walmart",
+    "price": 1.88
+  }},
+  {
+    "pk": 736,
+    "model": "foods.ingredient",
+    "fields": { "name": "Green Beans, canned",
+    "store": "Walmart",
+    "price": 0.68
+  }},
+  {
+    "pk": 737,
+    "model": "foods.ingredient",
+    "fields": { "name": "Ground Beef (chuck, 80/20)",
+    "store": "Walmart",
+    "price": 3.28
+  }},
+  {
+    "pk": 738,
+    "model": "foods.ingredient",
+    "fields": { "name": "Ground Beef (sirloin, 90/10)",
+    "store": "Walmart",
+    "price": 4.18
+  }},
+  {
+    "pk": 739,
+    "model": "foods.ingredient",
+    "fields": { "name": "Ground Beef, frozen",
+    "store": "Walmart",
+    "price": 2.88
+  }},
+  {
+    "pk": 740,
+    "model": "foods.ingredient",
+    "fields": { "name": "Ground Turkey",
+    "store": "Walmart",
+    "price": 2.33
+  }},
+  {
+    "pk": 741,
+    "model": "foods.ingredient",
+    "fields": { "name": "Ground Turkey, frozen",
+    "store": "Walmart",
+    "price": 2.88
+  }},
+  {
+    "pk": 742,
+    "model": "foods.ingredient",
+    "fields": { "name": "Ham, boneless",
+    "store": "Walmart",
+    "price": 3.38
+  }},
+  {
+    "pk": 743,
+    "model": "foods.ingredient",
+    "fields": { "name": "Honey",
+    "store": "Walmart",
+    "price": 4.98
+  }},
+  {
+    "pk": 744,
+    "model": "foods.ingredient",
+    "fields": { "name": "Honey Crunch Oats",
+    "store": "Walmart",
+    "price": 1.98
+  }},
+  {
+    "pk": 745,
+    "model": "foods.ingredient",
+    "fields": { "name": "Hot Dog Buns",
+    "store": "Walmart",
+    "price": 1.25
+  }},
+  {
+    "pk": 746,
+    "model": "foods.ingredient",
+    "fields": { "name": "Hot Dogs, beef",
+    "store": "Walmart",
+    "price": 0.00
+  }},
+  {
+    "pk": 747,
+    "model": "foods.ingredient",
+    "fields": { "name": "Ice Cream, premium",
+    "store": "Walmart",
+    "price": 3.38
+  }},
+  {
+    "pk": 748,
+    "model": "foods.ingredient",
+    "fields": { "name": "Ice Cream, simple",
+    "store": "Walmart",
+    "price": 1.98
+  }},
+  {
+    "pk": 749,
+    "model": "foods.ingredient",
+    "fields": { "name": "Jalopeño Peppers, canned",
+    "store": "Walmart",
+    "price": 0.86
+  }},
+  {
+    "pk": 750,
+    "model": "foods.ingredient",
+    "fields": { "name": "Ketchup",
+    "store": "Walmart",
+    "price": 1.24
+  }},
+  {
+    "pk": 751,
+    "model": "foods.ingredient",
+    "fields": { "name": "Kielbasa",
+    "store": "Walmart",
+    "price": 2.78
+  }},
+  {
+    "pk": 752,
+    "model": "foods.ingredient",
+    "fields": { "name": "Lemons",
+    "store": "Walmart",
+    "price": 1.98
+  }},
+  {
+    "pk": 753,
+    "model": "foods.ingredient",
+    "fields": { "name": "Lettuce, iceberg",
+    "store": "Walmart",
+    "price": 1.18
+  }},
+  {
+    "pk": 754,
+    "model": "foods.ingredient",
+    "fields": { "name": "Mandarin Oranges, canned",
+    "store": "Walmart",
+    "price": 0.78
+  }},
+  {
+    "pk": 755,
+    "model": "foods.ingredient",
+    "fields": { "name": "Margarine/Spread",
+    "store": "Walmart",
+    "price": 1.48
+  }},
+  {
+    "pk": 756,
+    "model": "foods.ingredient",
+    "fields": { "name": "Mayonnaise",
+    "store": "Walmart",
+    "price": 2.92
+  }},
+  {
+    "pk": 757,
+    "model": "foods.ingredient",
+    "fields": { "name": "Milk",
+    "store": "Walmart",
+    "price": 2.98
+  }},
+  {
+    "pk": 758,
+    "model": "foods.ingredient",
+    "fields": { "name": "Milk Chocolate Bar",
+    "store": "Walmart",
+    "price": 2.23
+  }},
+  {
+    "pk": 759,
+    "model": "foods.ingredient",
+    "fields": { "name": "Milk, organic",
+    "store": "Walmart",
+    "price": 3.38
+  }},
+  {
+    "pk": 760,
+    "model": "foods.ingredient",
+    "fields": { "name": "Mushrooms, Button, whole",
+    "store": "Walmart",
+    "price": 3.48
+  }},
+  {
+    "pk": 761,
+    "model": "foods.ingredient",
+    "fields": { "name": "Mushrooms, stems/pieces",
+    "store": "Walmart",
+    "price": 0.98
+  }},
+  {
+    "pk": 762,
+    "model": "foods.ingredient",
+    "fields": { "name": "Mustard, dijon",
+    "store": "Walmart",
+    "price": 2.92
+  }},
+  {
+    "pk": 763,
+    "model": "foods.ingredient",
+    "fields": { "name": "Mustard, yellow",
+    "store": "Walmart",
+    "price": 0.84
+  }},
+  {
+    "pk": 764,
+    "model": "foods.ingredient",
+    "fields": { "name": "Nutella",
+    "store": "Walmart",
+    "price": 3.28
+  }},
+  {
+    "pk": 765,
+    "model": "foods.ingredient",
+    "fields": { "name": "Oat Meal",
+    "store": "Walmart",
+    "price": 1.68
+  }},
+  {
+    "pk": 766,
+    "model": "foods.ingredient",
+    "fields": { "name": "Oil, Canola, 100% pure",
+    "store": "Walmart",
+    "price": 3.58
+  }},
+  {
+    "pk": 767,
+    "model": "foods.ingredient",
+    "fields": { "name": "Oil, Olive, 100% pure",
+    "store": "Walmart",
+    "price": 4.88
+  }},
+  {
+    "pk": 768,
+    "model": "foods.ingredient",
+    "fields": { "name": "Oil, Olive, extra virgin",
+    "store": "Walmart",
+    "price": 5.58
+  }},
+  {
+    "pk": 769,
+    "model": "foods.ingredient",
+    "fields": { "name": "Onions, yellow",
+    "store": "Walmart",
+    "price": 3.48
+  }},
+  {
+    "pk": 770,
+    "model": "foods.ingredient",
+    "fields": { "name": "Orange Juice, not from concentrate",
+    "store": "Walmart",
+    "price": 2.12
+  }},
+  {
+    "pk": 771,
+    "model": "foods.ingredient",
+    "fields": { "name": "Oranges",
+    "store": "Walmart",
+    "price": 4.98
+  }},
+  {
+    "pk": 772,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pancetta or Ham, diced",
+    "store": "Walmart",
+    "price": 3.18
+  }},
+  {
+    "pk": 773,
+    "model": "foods.ingredient",
+    "fields": { "name": "Paper Towles",
+    "store": "Walmart",
+    "price": 5.97
+  }},
+  {
+    "pk": 774,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pasta, Egg Noodles",
+    "store": "Walmart",
+    "price": 1.68
+  }},
+  {
+    "pk": 775,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pasta, Ellbow Maccaroni",
+    "store": "Walmart",
+    "price": 2.82
+  }},
+  {
+    "pk": 776,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pasta, Penne Rigate",
+    "store": "Walmart",
+    "price": 1.08
+  }},
+  {
+    "pk": 777,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pasta, Rotini/Rotelle/Fusilli",
+    "store": "Walmart",
+    "price": 1.08
+  }},
+  {
+    "pk": 778,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pasta, Spaghetti",
+    "store": "Walmart",
+    "price": 1.88
+  }},
+  {
+    "pk": 779,
+    "model": "foods.ingredient",
+    "fields": { "name": "Peanut Butter",
+    "store": "Walmart",
+    "price": 2.56
+  }},
+  {
+    "pk": 780,
+    "model": "foods.ingredient",
+    "fields": { "name": "Peanuts, roasted",
+    "store": "Walmart",
+    "price": 2.88
+  }},
+  {
+    "pk": 781,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pears",
+    "store": "Walmart",
+    "price": 1.77
+  }},
+  {
+    "pk": 782,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pepper, black, ground",
+    "store": "Walmart",
+    "price": 2.82
+  }},
+  {
+    "pk": 783,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pizza Dough",
+    "store": "Walmart",
+    "price": 2.24
+  }},
+  {
+    "pk": 784,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pizza, frozen (premium)",
+    "store": "Walmart",
+    "price": 4.25
+  }},
+  {
+    "pk": 785,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pizza, frozen (simple)",
+    "store": "Walmart",
+    "price": 3.33
+  }},
+  {
+    "pk": 786,
+    "model": "foods.ingredient",
+    "fields": { "name": "Plastic Wrap",
+    "store": "Walmart",
+    "price": 1.53
+  }},
+  {
+    "pk": 787,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pork Tenderloin, small",
+    "store": "Walmart",
+    "price": 3.98
+  }},
+  {
+    "pk": 788,
+    "model": "foods.ingredient",
+    "fields": { "name": "Potatoes, gold (Yukon)",
+    "store": "Walmart",
+    "price": 4.47
+  }},
+  {
+    "pk": 789,
+    "model": "foods.ingredient",
+    "fields": { "name": "Potatoes, red",
+    "store": "Walmart",
+    "price": 2.97
+  }},
+  {
+    "pk": 790,
+    "model": "foods.ingredient",
+    "fields": { "name": "Potatoes, Russet",
+    "store": "Walmart",
+    "price": 4.47
+  }},
+  {
+    "pk": 791,
+    "model": "foods.ingredient",
+    "fields": { "name": "Preserves, strawberry",
+    "store": "Walmart",
+    "price": 2.08
+  }},
+  {
+    "pk": 792,
+    "model": "foods.ingredient",
+    "fields": { "name": "Pretzels",
+    "store": "Walmart",
+    "price": 2.98
+  }},
+  {
+    "pk": 793,
+    "model": "foods.ingredient",
+    "fields": { "name": "Red Cabbage",
+    "store": "Walmart",
+    "price": 0.00
+  }},
+  {
+    "pk": 794,
+    "model": "foods.ingredient",
+    "fields": { "name": "Ribs, Baby Back (pork, unseasoned)",
+    "store": "Walmart",
+    "price": 3.98
+  }},
+  {
+    "pk": 795,
+    "model": "foods.ingredient",
+    "fields": { "name": "Ribs, Spare Back (pork, unseasoned)",
+    "store": "Walmart",
+    "price": 2.98
+  }},
+  {
+    "pk": 796,
+    "model": "foods.ingredient",
+    "fields": { "name": "Rice, instant, white",
+    "store": "Walmart",
+    "price": 2.48
+  }},
+  {
+    "pk": 797,
+    "model": "foods.ingredient",
+    "fields": { "name": "Rice, regular",
+    "store": "Walmart",
+    "price": 1.28
+  }},
+  {
+    "pk": 798,
+    "model": "foods.ingredient",
+    "fields": { "name": "Salad Dressing",
+    "store": "Walmart",
+    "price": 1.66
+  }},
+  {
+    "pk": 799,
+    "model": "foods.ingredient",
+    "fields": { "name": "Salami, sliced",
+    "store": "Walmart",
+    "price": 2.48
+  }},
+  {
+    "pk": 800,
+    "model": "foods.ingredient",
+    "fields": { "name": "Salami, whole (1)",
+    "store": "Walmart",
+    "price": 3.98
+  }},
+  {
+    "pk": 801,
+    "model": "foods.ingredient",
+    "fields": { "name": "Salami, whole (2)",
+    "store": "Walmart",
+    "price": 0.00
+  }},
+  {
+    "pk": 802,
+    "model": "foods.ingredient",
+    "fields": { "name": "Salsa, medium",
+    "store": "Walmart",
+    "price": 1.98
+  }},
+  {
+    "pk": 803,
+    "model": "foods.ingredient",
+    "fields": { "name": "Salt, iodized",
+    "store": "Walmart",
+    "price": 0.72
+  }},
+  {
+    "pk": 804,
+    "model": "foods.ingredient",
+    "fields": { "name": "Soda, bottle",
+    "store": "Walmart",
+    "price": 1.38
+  }},
+  {
+    "pk": 805,
+    "model": "foods.ingredient",
+    "fields": { "name": "Soda, bottle (Coke product)",
+    "store": "Walmart",
+    "price": 1.38
+  }},
+  {
+    "pk": 806,
+    "model": "foods.ingredient",
+    "fields": { "name": "Soda, can",
+    "store": "Walmart",
+    "price": 3.98
+  }},
+  {
+    "pk": 807,
+    "model": "foods.ingredient",
+    "fields": { "name": "Soda, can (Coke product)",
+    "store": "Walmart",
+    "price": 3.98
+  }},
+  {
+    "pk": 808,
+    "model": "foods.ingredient",
+    "fields": { "name": "Soup, Chicken Noodle, condensed",
+    "store": "Walmart",
+    "price": 0.64
+  }},
+  {
+    "pk": 809,
+    "model": "foods.ingredient",
+    "fields": { "name": "Soup, Chicken Noodle, regular",
+    "store": "Walmart",
+    "price": 1.48
+  }},
+  {
+    "pk": 810,
+    "model": "foods.ingredient",
+    "fields": { "name": "Soup, organic",
+    "store": "Walmart",
+    "price": 1.98
+  }},
+  {
+    "pk": 811,
+    "model": "foods.ingredient",
+    "fields": { "name": "Soup, Tomato, condensed",
+    "store": "Walmart",
+    "price": 0.64
+  }},
+  {
+    "pk": 812,
+    "model": "foods.ingredient",
+    "fields": { "name": "Soup, Tomato, regular",
+    "store": "Walmart",
+    "price": 1.48
+  }},
+  {
+    "pk": 813,
+    "model": "foods.ingredient",
+    "fields": { "name": "Sour Cream",
+    "store": "Walmart",
+    "price": 1.58
+  }},
+  {
+    "pk": 814,
+    "model": "foods.ingredient",
+    "fields": { "name": "Spaghetti Sauce",
+    "store": "Walmart",
+    "price": 1.33
+  }},
+  {
+    "pk": 815,
+    "model": "foods.ingredient",
+    "fields": { "name": "Sugar, brown",
+    "store": "Walmart",
+    "price": 1.88
+  }},
+  {
+    "pk": 816,
+    "model": "foods.ingredient",
+    "fields": { "name": "Sugar, powdered",
+    "store": "Walmart",
+    "price": 1.88
+  }},
+  {
+    "pk": 817,
+    "model": "foods.ingredient",
+    "fields": { "name": "Sugar, white",
+    "store": "Walmart",
+    "price": 2.88
+  }},
+  {
+    "pk": 818,
+    "model": "foods.ingredient",
+    "fields": { "name": "Syrup, breakfast",
+    "store": "Walmart",
+    "price": 1.98
+  }},
+  {
+    "pk": 819,
+    "model": "foods.ingredient",
+    "fields": { "name": "Tea, green, bags",
+    "store": "Walmart",
+    "price": 2.18
+  }},
+  {
+    "pk": 820,
+    "model": "foods.ingredient",
+    "fields": { "name": "Tomato Paste",
+    "store": "Walmart",
+    "price": 0.44
+  }},
+  {
+    "pk": 821,
+    "model": "foods.ingredient",
+    "fields": { "name": "Tomato Sauce",
+    "store": "Walmart",
+    "price": 0.34
+  }},
+  {
+    "pk": 822,
+    "model": "foods.ingredient",
+    "fields": { "name": "Tomatoes, slicer",
+    "store": "Walmart",
+    "price": 1.74
+  }},
+  {
+    "pk": 823,
+    "model": "foods.ingredient",
+    "fields": { "name": "Tuna, chunky, in water",
+    "store": "Walmart",
+    "price": 0.64
+  }},
+  {
+    "pk": 824,
+    "model": "foods.ingredient",
+    "fields": { "name": "Tuna, solid, in water",
+    "store": "Walmart",
+    "price": 1.12
+  }},
+  {
+    "pk": 825,
+    "model": "foods.ingredient",
+    "fields": { "name": "Vanilla Extract, pure (not imitation)",
+    "store": "Walmart",
+    "price": 0.00
+  }},
+  {
+    "pk": 826,
+    "model": "foods.ingredient",
+    "fields": { "name": "Veggies 1, frozen (peas)",
+    "store": "Walmart",
+    "price": 0.98
+  }},
+  {
+    "pk": 827,
+    "model": "foods.ingredient",
+    "fields": { "name": "Veggies 2, frozen (other)",
+    "store": "Walmart",
+    "price": 1.28
+  }},
+  {
+    "pk": 828,
+    "model": "foods.ingredient",
+    "fields": { "name": "Waffles, frozen",
+    "store": "Walmart",
+    "price": 1.58
+  }},
+  {
+    "pk": 829,
+    "model": "foods.ingredient",
+    "fields": { "name": "Water, regular/drinking",
+    "store": "Walmart",
+    "price": 3.98
+  }},
+  {
+    "pk": 830,
+    "model": "foods.ingredient",
+    "fields": { "name": "Water, Sparkling/Mineral",
+    "store": "Walmart",
+    "price": 1.5
+  }},
+  {
+    "pk": 831,
+    "model": "foods.ingredient",
+    "fields": { "name": "White Bread/Toast, enriched",
+    "store": "Walmart",
+    "price": 2.18
+  }},
+  {
+    "pk": 832,
+    "model": "foods.ingredient",
+    "fields": { "name": "Wine, table, Cabernet",
+    "store": "Walmart",
+    "price": 2.97
+  }},
+  {
+    "pk": 833,
+    "model": "foods.ingredient",
+    "fields": { "name": "Wine, table, Chardonnay",
+    "store": "Walmart",
+    "price": 2.97
+  }},
+  {
+    "pk": 834,
+    "model": "foods.ingredient",
+    "fields": { "name": "Wine, table, White Zinfandel",
+    "store": "Walmart",
+    "price": 2.97
+  }},
+  {
+    "pk": 835,
+    "model": "foods.ingredient",
+    "fields": { "name": "Yoghurt, Dannon (etc.)",
+    "store": "Walmart",
+    "price": 2.18
+  }},
+  {
+    "pk": 836,
+    "model": "foods.ingredient",
+    "fields": { "name": "Yogurt, Fage, 2%, plain",
+    "store": "Walmart",
+    "price": 1.27
+  }},
+  {
+    "pk": 837,
+    "model": "foods.ingredient",
+    "fields": { "name": "Yogurt, Fage, w/ flavor",
+    "store": "Walmart",
+    "price": 1.27
+  }},
+  {
+    "pk": 838,
+    "model": "foods.ingredient",
+    "fields": { "name": "Yogurt, flavored, cup",
+    "store": "Walmart",
+    "price": 0.33
+  }},
+  {
+    "pk": 839,
+    "model": "foods.ingredient",
+    "fields": { "name": "Yogurt, greek style, plain",
+    "store": "Walmart",
+    "price": 4.88
+  }},
+  {
+    "pk": 840,
+    "model": "foods.ingredient",
+    "fields": { "name": "Yogurt, plain",
+    "store": "Walmart",
+    "price": 2.18
+  }
+}
+]

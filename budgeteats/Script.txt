@@ -1,0 +1,24 @@
+Hi, welcome, and this is a BudgetEat which is a hackathon project that was made to help poverty of not just the homeless people but the regular people nearby.
+
+It is built using React and Django and the main theme of our project was to give them the 
+list of prices per grocery stores so the user can select a grocery store with the lowest price.
+
+Although this application is using very old, non dynamic API that our team found browsing through the internet, we believe that this has huge potential growth 
+which will be discussed at the end of the video.
+
+First, if we navigate to the ingredient page, we can see a list of grocery items with a price per stores. You can browse through these and see the list of items. 
+You also have a search bar where you can search for any of the items if you are looking for a certain item. For example we can search for a apple.
+
+On the right of the item, we have a add button where pressing it will add to the grocery list on the right.
+When it is added to the list, you can increase or decrease the amount as you like.
+
+You can add multiple items and when added, the total will be displayed on the bottom of the screen where you can compare to visit the grocery store with the 
+lowest price.
+
+This is all we have implemented for now, but in futures, we can also have a features like saving the grocery lists so whenever there is a change in price,
+the application can send the message to the user. 
+
+Also, since the targeted user is towards regular people who wishes to save money through grocery, we can have a recipe feature where it includes price 
+for the selected recipe.
+
+That is all we have for now, thank you for watching the BudgetEat.
